@@ -1,0 +1,23 @@
+---
+author: marshall.guillory
+comments: false
+date: 2015-01-09 15:43:06+00:00
+layout: post
+link: https://www.opendataplane.org/news/952/
+slug: '952'
+title: ODP v0.7 Pre-release published to the repo
+wordpress_id: 952
+categories:
+- News Hub
+tags:
+- networking
+- ODP
+- OpenDataPlane
+- release
+---
+
+January 9, 2015
+
+The latest pre-release version of OpenDataPlane, v0.7, was published to the [ODP git repo](https://git.linaro.org/lng/odp.git/commit/6fe556e182d8cb1d75cc982c56cb6003ebdb8f31) today.
+
+{% include image.html name="ODPv0.7tag.png" alt="ODPv0.7tag"%}

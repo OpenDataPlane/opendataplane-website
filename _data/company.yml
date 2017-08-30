@@ -1,0 +1,24 @@
+favicon: /assets/images/favion.png
+search-label: OpenDataPlane
+name: OpenDataPlane
+slogan: Welcome to the OpenDataPlane Project.
+mailchimp:
+    enabled: true
+    id: 45c16dffd6
+newsletter:
+    enabled: true
+# Jekyll social media site settings. Github, LinkedIn, Google+, Facebook and Youtube
+github_username: Linaro
+
+# Google Anayltics Setup
+google:
+    analytics: UA-16756069-15
+
+disqus:
+    enabled: false
+    shortname: opendataplane
+# homepage_image: /assets/images/background-image.jpg
+# breadcrumb-image: /assets/images/background-image.jpg
+
+#Optional Path to placeholder image for blog - defaults to /assets/images/placeholder.png
+placeholder: /assets/images/placeholder.jpg
