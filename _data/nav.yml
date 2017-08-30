@@ -1,0 +1,41 @@
+search: true
+brand:
+    text: OpenDataPlane
+    image: /assets/images/ODP-Standard-Logo.png
+    url: /
+pages:
+    - title: Users
+      url: /application-writers/
+    - title: Developers
+      url: /developers/
+    - title: Status
+      options:
+          - text: Change Log
+            url: http://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/CHANGELOG.html
+            external: true
+          - text: Bugs
+            url: /bugs/
+          - text: Git Stats
+            url: /git-stats/
+          - text: ODP Jira Project
+            url: https://projects.linaro.org/secure/RapidBoard.jspa?rapidView=30&projectKey=ODP
+            external: true
+          - text: Patches - ODP-linux
+            url: http://patches.opendataplane.org/project/lng-odp/list/
+            external: true
+          - text: API / ABI Differences
+            url: /api-documentation/api-differences/
+          - text: Roadmap
+            url: /roadmap/
+          - text: Performance
+            url: /performance/
+    - title: Software
+      options:
+          - text: Downloads
+            url: /downloads/
+          - text: Applications
+            url: /applications/
+    - title: News
+      url: /news/
+    - title: About
+      url: /about/

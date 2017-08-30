@@ -1,0 +1,72 @@
+image: /assets/images/odp-vertical-logo.png
+columns:
+
+    - title: About
+      url: /about/
+      items:
+        - text: News
+          url : /news/
+        - text: Press
+          url : /press/
+        - text: Contact
+          url : /contact/
+    - title: Users
+      url: /application-writers/
+      items:
+        - text: User Guide
+          url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/users-guide.html
+        - text: Developers
+          url : https://github.com/devicetree-org
+    - title: Developers
+      url: /developers/
+      items:
+         - text: Git
+           url : https://git.linaro.org/lng/odp.git
+         - text: Testing
+           url : https://www.opendataplane.org/testing/
+         - text: Bugs
+           url : https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
+         - text: APIs
+           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/dox_html/master/latest/linux-generic-doxygen-html/index.html
+         - text: Implementers Guide
+           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/implementers-guide.html
+         - text: Release Guide
+           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/release-guide.html
+         - text: Contributing
+           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/CONTRIBUTING.html
+         - text: Bylaws
+           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/bylaws-guide.html
+    - title: ODP Status
+      url: /developers/
+      items:
+         - text: Change Log
+           url : http://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/CHANGELOG.html
+         - text: Bugs
+           url : /bugs/
+         - text: Git Stats
+           url : /git-stats/
+         - text: ODP Jira Project
+           url : https://projects.linaro.org/secure/RapidBoard.jspa?rapidView=30&projectKey=ODP
+         - text: Patches - ODP-linux
+           url : http://patches.opendataplane.org/project/lng-odp/list/
+         - text: API / ABI Differences
+           url : /api-documentation/api-differences/
+         - text: Roadmap
+           url : /roadmap/
+         - text: Performance
+           url : /performance/
+    - title: Software
+      items:
+         - text: Downloads
+           url : /downloads/
+         - text: Applications
+           url : /applications/
+
+
+companylinks:
+    - name: Legal
+      url: /legal/
+    - name: Contact
+      url: /contact/
+    - name: Press
+      url: /press/

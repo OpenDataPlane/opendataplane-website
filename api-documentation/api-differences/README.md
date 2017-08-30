@@ -3,7 +3,7 @@ title: API/ABI Differences
 description: |-
     The branch api-next is used to stage proposed APIs for inclusion ODP. The difference between these proposed APIs and the master branch of the validation model for ODP in linux-generic and other open performance implementations built by LNG CI are listed below.
 layout: default-plain
-permalink: /api-differences/
+permalink: /api-documentation/api-differences/
 ---
 ## API/ABI Differences
 

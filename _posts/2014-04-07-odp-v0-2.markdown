@@ -1,0 +1,54 @@
+---
+author: shovan
+comments: true
+date: 2014-04-07 14:57:04+00:00
+layout: post
+link: https://www.opendataplane.org/news/odp-v0-2/
+slug: odp-v0-2
+title: LNG releases ODP v0.2
+wordpress_id: 437
+categories:
+- News Hub
+---
+
+Version 0.2 of ODP is now available. It can be downloaded from [http://git.linaro.org/lng/odp.git](http://git.linaro.org/lng/odp.git) .
+
+This is the second developmental release for ODP includes following key updates:
+
+  * Network packet I/O multi queue support;
+
+
+  * Locking improvements and rwlock implementation;
+
+
+  * Project directories reorganisation;
+
+
+  * Added queue operations and scheduling;
+
+
+  * Initial timer support;
+
+
+  * Huge page support;
+
+
+  * Linux generic for Octeon and Powerpc support;
+
+
+  * Fixed arm related bug against odp-0.1;
+
+
+  * Netmap for network packet I/O support;
+
+
+  * Application I/O type selection (raw sockets, packet mmap, netmap) without recompilation;
+
+
+  * Network packet headers parsing and checksum helpers;
+
+
+  * Port libpcap to support odp queues for incoming packets;
+
+
+Please refer to  [http://www.opendataplane.org/downloads/](http://opendataplane.org///downloads/) for API documentation and other project related links.
