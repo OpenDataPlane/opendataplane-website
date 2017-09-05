@@ -11,7 +11,7 @@ pages:
     - title: Status
       options:
           - text: Change Log
-            url: /developers/CHANGELOG.html
+            url: /developers/changelog.html
           - text: Bugs
             url: /bugs/
           - text: Git Stats
