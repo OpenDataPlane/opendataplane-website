@@ -3,20 +3,17 @@ pages:
     list:
       -
         title: FAQ
-        url: https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/faq.html
-        external: true
+        url: /application-writers/faq.html
       -
         title: Git
         url: https://git.linaro.org/lng/odp.git
         external: true
       -
         title: API
-        url: http://docs.opendataplane.org/snapshots/odp-publish/generic/dox_html/master/latest/linux-generic-doxygen-html/index.html
-        external: true
+        url: /api/index.html
       -
         title: User Guide
-        url: http://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/users-guide.html
-        external: true
+        url: /application-writers/users-guide.html
       -
         title: Support
         url: /commercial-support/
@@ -47,22 +44,17 @@ pages:
         external: true
       -
         title: APIs
-        url: https://docs.opendataplane.org/snapshots/odp-publish/generic/dox_html/master/latest/linux-generic-doxygen-html/index.html
-        external: true
+        url: /api/index.html
       -
         title: Implementers Guide
-        url: https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/implementers-guide.html
-        external: true
+        url: /developers/implementers-guide.html
       -
         title: Release Guide
-        url: https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/release-guide.html
-        external: true
+        url: /developers/release-guide.html
       -
         title: Contributing
-        url: https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/CONTRIBUTING.html
-        external: true
+        url: /developers/CONTRIBUTING.html
       -
         title: Bylaws
-        url: https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/bylaws-guide.html
-        external: true
+        url: /developers/bylaws-guide.html
     urls: [/developers/]

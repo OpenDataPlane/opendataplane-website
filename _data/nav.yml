@@ -11,8 +11,7 @@ pages:
     - title: Status
       options:
           - text: Change Log
-            url: http://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/CHANGELOG.html
-            external: true
+            url: /developers/CHANGELOG.html
           - text: Bugs
             url: /bugs/
           - text: Git Stats
