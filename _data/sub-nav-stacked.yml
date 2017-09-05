@@ -53,8 +53,8 @@ pages:
         url: /developers/release-guide.html
       -
         title: Contributing
-        url: /developers/CONTRIBUTING.html
+        url: /developers/contributing.html
       -
         title: Bylaws
-        url: /developers/bylaws-guide.html
+        url: /developers/bylaws.html
     urls: [/developers/]
