@@ -5,9 +5,49 @@ brand:
     url: /
 pages:
     - title: Users
-      url: /application-writers/
+      options:
+            - text: Users Home
+              url: /application-writers/
+            - text: FAQ
+              url: /application-writers/faq.html
+            - text: API
+              url: /api/index.html
+            - text: User Guide
+              url: /application-writers/users-guide.html
+            - text: APIs
+              url: /api/index.html
+            - text: Support
+              url: /commercial-support/
+            - text: Meeting
+              url: https://collaborate.linaro.org/display/ODP/OpenDataPlane
+              external: true
+            - text: Mailing List
+              url: https://lists.linaro.org/mailman/listinfo/lng-odp
+              external: true
+            - text: Existing Applications
+              url: /applications/
     - title: Developers
-      url: /developers/
+      options:
+            - text: Developers Home
+              url: /developers/
+            - text: Git
+              url: https://git.linaro.org/lng/odp.git
+              external: true
+            - text: Testing
+              url: /testing/
+            - text: Bugs
+              url: https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
+              external: true
+            - text: APIs
+              url: /api/index.html
+            - text: Implementers Guide
+              url: /developers/implementers-guide.html
+            - text: Release Guide
+              url: /developers/release-guide.html
+            - text: Contributing
+              url: /developers/CONTRIBUTING.html
+            - text: ByLaws
+              url: /developers/bylaws-guide.html
     - title: Status
       options:
           - text: Change Log
