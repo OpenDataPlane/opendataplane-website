@@ -3,7 +3,7 @@ pages:
     list:
       -
         title: FAQ
-        url: /application-writers/faq.html
+        url: /application-writers/faq/index.html
       -
         title: Git
         url: https://git.linaro.org/lng/odp.git
@@ -13,7 +13,7 @@ pages:
         url: /api/index.html
       -
         title: User Guide
-        url: /application-writers/users-guide.html
+        url: /application-writers/users-guide/index.html
       -
         title: Support
         url: /commercial-support/
@@ -47,14 +47,14 @@ pages:
         url: /api/index.html
       -
         title: Implementers Guide
-        url: /developers/implementers-guide.html
+        url: /developers/implementers-guide/index.html
       -
         title: Release Guide
-        url: /developers/release-guide.html
+        url: /developers/release-guide/index.html
       -
         title: Contributing
-        url: /developers/contributing.html
+        url: /developers/contributing/index.html
       -
         title: Bylaws
-        url: /developers/bylaws.html
+        url: /developers/bylaws/index.html
     urls: [/developers/]
