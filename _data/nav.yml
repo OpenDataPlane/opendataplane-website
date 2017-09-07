@@ -14,8 +14,6 @@ pages:
               url: /api/index.html
             - text: User Guide
               url: /application-writers/users-guide/index.html
-            - text: APIs
-              url: /api/index.html
             - text: Support
               url: /commercial-support/
             - text: Meeting
@@ -38,7 +36,7 @@ pages:
             - text: Bugs
               url: https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
               external: true
-            - text: APIs
+            - text: API
               url: /api/index.html
             - text: Implementers Guide
               url: /developers/implementers-guide/index.html
