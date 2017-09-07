@@ -48,7 +48,7 @@ An essential component of ODP is the _Validation Test Suite_. This is a comprehe
         </a>
     </div>
     <div class="col-md-3 col-xs-6 feature">
-        <a href="https://docs.opendataplane.org/snapshots/odp-publish/generic/dox_html/master/latest/linux-generic-doxygen-html/index.html">
+        <a href="/api/index.html">
             <img class="feature-image center-block" src="/assets/images/APIS-icon.png" alt="ODP APIs Icon"/>
         </a>
     </div>

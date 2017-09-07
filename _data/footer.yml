@@ -14,7 +14,7 @@ columns:
       url: /application-writers/
       items:
         - text: User Guide
-          url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/users-guide.html
+          url : /application-writers/users-guide/index.html
         - text: Developers
           url : https://github.com/devicetree-org
     - title: Developers
@@ -26,21 +26,21 @@ columns:
            url : https://www.opendataplane.org/testing/
          - text: Bugs
            url : https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
-         - text: APIs
-           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/dox_html/master/latest/linux-generic-doxygen-html/index.html
+         - text: API
+           url : /api/index.html
          - text: Implementers Guide
-           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/implementers-guide.html
+           url : /developers/implementers-guide/index.html
          - text: Release Guide
-           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/release-guide.html
+           url : /developers/release-guide/index.html
          - text: Contributing
-           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/CONTRIBUTING.html
+           url : /developers/contributing/index.html
          - text: Bylaws
-           url : https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/bylaws-guide.html
+           url : /developers/bylaws/index.html
     - title: ODP Status
       url: /developers/
       items:
          - text: Change Log
-           url : http://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/CHANGELOG.html
+           url : /developers/changelog/index.html
          - text: Bugs
            url : /bugs/
          - text: Git Stats
