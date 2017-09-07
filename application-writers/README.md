@@ -12,7 +12,7 @@ specific_js: /assets/js/vendor/lightbox.min.js
 Welcome to OpenDataPlane (ODP). This section of the web site is designed to provide information and resources of interest to data plane application writers. Here you’ll learn how to use ODP to create portable applications that take advantage of acceleration capabilities found in the diverse platforms that offer ODP implementations.
 </div>
 <div class="col-md-2" markdown="1">
-{% include image.html name="faq_icon.png" url="https://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/faq.html" alt="Faq Icon" %}
+{% include image.html name="faq_icon.png" url="/application-writers/faq/index.html" alt="Faq Icon" %}
 </div>
 
 {% include image.html name="packet_flow.svg" alt="Packet Flow Image"%}
