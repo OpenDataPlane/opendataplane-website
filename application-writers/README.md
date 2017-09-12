@@ -31,11 +31,11 @@ ODP supports both polling and event driven programming models for packet process
 <h4 class="text-center">odp-linux (Git)</h4>
 </div>
 <div class="col-md-3 col-xs-6 feature" markdown="1">
-{% include image.html name="api_icon.png" alt="API Docs Icon" url="http://docs.opendataplane.org/snapshots/odp-publish/generic/dox_html/master/latest/linux-generic-doxygen-html/index.html" %}
-<h4 class="text-center">API Docs</h4>
+{% include image.html name="api_icon.png" alt="API Docs Icon" url="/api/index.html" %}
+<h4 class="text-center">API Documentation</h4>
 </div>
 <div class="col-md-3 col-xs-6 feature" markdown="1">
-{% include image.html name="user_guide_icon.png" alt="User Guide Icon" url="http://docs.opendataplane.org/snapshots/odp-publish/generic/usr_html/master/latest/linux-generic/output/users-guide.html"%}
+{% include image.html name="user_guide_icon.png" alt="User Guide Icon" url="/application-writers/users-guide/index.html"%}
 <h4 class="text-center">User Guide</h4>
 </div>
 <div class="col-md-3 col-xs-6 feature" markdown="1">

@@ -43,7 +43,7 @@ pages:
         url: https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
         external: true
       -
-        title: APIs
+        title: API
         url: /api/index.html
       -
         title: Implementers Guide
