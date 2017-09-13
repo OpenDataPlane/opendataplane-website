@@ -14,7 +14,7 @@ pages:
               url: https://git.linaro.org/lng/odp.git
               external: true
             - text: API
-              url: api-documentation/master/api/index.html
+              url: /api-documentation/master/api/index.html
             - text: User Guide
               url: /application-writers/users-guide/index.html
             - text: Support

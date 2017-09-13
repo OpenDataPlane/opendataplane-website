@@ -10,7 +10,7 @@ pages:
         external: true
       -
         title: API
-        url: api-documentation/master/api/index.html
+        url: /api-documentation/master/api/index.html
       -
         title: User Guide
         url: /application-writers/users-guide/index.html
