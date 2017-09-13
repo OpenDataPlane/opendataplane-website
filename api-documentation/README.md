@@ -17,7 +17,7 @@ Introduction and Overview document provides an introduction and overview of the 
 
 | Output | odp-linux pktio types<br />(Sockets, Netmap, DPDK) |
 | ------ | -------------------------------------------------- |
-| HTML API Documentation | master: [![Leaf Icon](/assets/images/leaf.png)](/api-documentation/master/api/index.html) |
-|        | api-next: [![Leaf Icon](/assets/images/leaf.png)](/api-documentation/api-next/api/index.html) |
-| HTML Helper Documentation | master: [![Leaf Icon](/assets/images/leaf.png)](/api-documentation/master/helper-guide/index.html) |
-|        | api-next: [![Leaf Icon](/assets/images/leaf.png)](/api-documentation/api-next/helper-guide/index.html) |
+| HTML API Documentation | master: [![Leaf Icon](/assets/images/leaf.png)](/api-documentation/master/api/index.html){:target="_blank"} |
+|        | api-next: [![Leaf Icon](/assets/images/leaf.png)](/api-documentation/api-next/api/index.html){:target="_blank"} |
+| HTML Helper Documentation | master: [![Leaf Icon](/assets/images/leaf.png)](/api-documentation/master/helper-guide/index.html){:target="_blank"} |
+|        | api-next: [![Leaf Icon](/assets/images/leaf.png)](/api-documentation/api-next/helper-guide/index.html){:target="_blank"} |
