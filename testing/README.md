@@ -7,12 +7,16 @@ permalink: /testing/
 ---
 ## Testing
 
-ODP uses Travis amd codecov to test and validate changes made to the source code:
+ODP uses Travis and codecov to test and validate changes made to the source code:
 
-Travis CI: ![CI master branch](https://travis-ci.org/Linaro/odp.svg?branch=master)
+### Travis CI
+![CI master branch](https://travis-ci.org/Linaro/odp.svg?branch=master)
+
 For details on regression, please visit [the Travis CI site](https://travis-ci.org/Linaro/odp).
 
-Codecov: ![Codecov](https://codecov.io/gh/Linaro/odp/branch/master/graph/badge.svg)
+### Codecov
+![Codecov](https://codecov.io/gh/Linaro/odp/branch/master/graph/badge.svg)
+
 For details on regression, please visit [the Codecov site](https://codecov.io/gh/Linaro/odp).
 
 ## Using GitHub and Travis for ODP Development
