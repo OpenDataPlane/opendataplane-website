@@ -25,8 +25,6 @@ pages:
             - text: Mailing List
               url: https://lists.linaro.org/mailman/listinfo/lng-odp
               external: true
-            - text: Existing Applications
-              url: /applications/
     - title: Developers
       options:
             - text: Developers Home
@@ -36,9 +34,6 @@ pages:
               external: true
             - text: Testing
               url: /testing/
-            - text: Bugs
-              url: https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
-              external: true
             - text: APIs
               url: /api-documentation/index.html
             - text: Implementers Guide
@@ -75,7 +70,11 @@ pages:
             url: /downloads/
           - text: Applications
             url: /applications/
-    - title: News
-      url: /news/
     - title: About
-      url: /about/
+      options:
+          - text: About
+            url: /about/
+          - text: News
+            url: /news/
+          - text: Contact
+            url: /contact/

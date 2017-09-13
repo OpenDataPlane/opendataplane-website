@@ -1,15 +1,6 @@
 image: /assets/images/odp-vertical-logo.png
 columns:
 
-    - title: About
-      url: /about/
-      items:
-        - text: News
-          url : /news/
-        - text: Press
-          url : /press/
-        - text: Contact
-          url : /contact/
     - title: Users
       url: /application-writers/
       items:
@@ -27,8 +18,6 @@ columns:
           url: https://collaborate.linaro.org/display/ODP/OpenDataPlane
         - text: Mailing List
           url: https://lists.linaro.org/mailman/listinfo/lng-odp
-        - text: Existing Applications
-          url: /applications/
     - title: Developers
       url: /developers/
       items:
@@ -36,8 +25,6 @@ columns:
            url : https://git.linaro.org/lng/odp.git
          - text: Testing
            url : https://www.opendataplane.org/testing/
-         - text: Bugs
-           url : https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
          - text: APIs
            url : /api-documentation/index.html
          - text: Implementers Guide
@@ -72,12 +59,14 @@ columns:
            url : /downloads/
          - text: Applications
            url : /applications/
-
+    - title: About
+      url: /about/
+      items:
+        - text: News
+          url : /news/
+        - text: Contact
+          url : /contact/
 
 companylinks:
-    - name: Legal
-      url: /legal/
     - name: Contact
       url: /contact/
-    - name: Press
-      url: /press/

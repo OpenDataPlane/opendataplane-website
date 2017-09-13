@@ -25,9 +25,6 @@ pages:
         title: Mailing List
         url: https://lists.linaro.org/mailman/listinfo/lng-odp
         external: true
-      -
-        title: Existing Applications
-        url: /applications/
     urls: [/application-writers/]
   -
     list:
@@ -38,10 +35,6 @@ pages:
       -
         title: Testing
         url: /testing/
-      -
-        title: Bugs
-        url: https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
-        external: true
       -
         title: APIs
         url: /api-documentation/index.html
