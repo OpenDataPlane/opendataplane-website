@@ -10,7 +10,7 @@ pages:
         external: true
       -
         title: API
-        url: /api/index.html
+        url: api-documentation/master/api/index.html
       -
         title: User Guide
         url: /application-writers/users-guide/index.html
@@ -43,8 +43,8 @@ pages:
         url: https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
         external: true
       -
-        title: API
-        url: /api/index.html
+        title: APIs
+        url: /api-documentation/index.html
       -
         title: Implementers Guide
         url: /developers/implementers-guide/index.html

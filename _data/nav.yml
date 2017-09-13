@@ -10,8 +10,11 @@ pages:
               url: /application-writers/
             - text: FAQ
               url: /application-writers/faq/index.html
+            - title: Git
+              url: https://git.linaro.org/lng/odp.git
+              external: true
             - text: API
-              url: /api/index.html
+              url: api-documentation/master/api/index.html
             - text: User Guide
               url: /application-writers/users-guide/index.html
             - text: Support
@@ -36,8 +39,8 @@ pages:
             - text: Bugs
               url: https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
               external: true
-            - text: API
-              url: /api/index.html
+            - text: APIs
+              url: /api-documentation/index.html
             - text: Implementers Guide
               url: /developers/implementers-guide/index.html
             - text: Release Guide
