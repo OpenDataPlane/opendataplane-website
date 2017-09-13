@@ -10,7 +10,7 @@ pages:
               url: /application-writers/
             - text: FAQ
               url: /application-writers/faq/index.html
-            - title: Git
+            - text: Git
               url: https://git.linaro.org/lng/odp.git
               external: true
             - text: API
