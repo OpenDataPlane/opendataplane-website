@@ -7,7 +7,7 @@ permalink: /git-stats/
 ---
 ## Git Stats
 
-The move to GitHub allows most tracking information to be available via its interface [GitHub](https://github.com/Linaro/odp/graphs/contributors)
+The move to GitHub allows most tracking information to be available [via its interface](https://github.com/Linaro/odp/graphs/contributors).
 
 | Output/Platform | odp-linux pktio types<br />(Socket, Netmap, DPDK) | odp-dpdk |
 | :-------------: | ------------------------------------------------- | -------- |

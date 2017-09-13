@@ -13,10 +13,22 @@ columns:
     - title: Users
       url: /application-writers/
       items:
+        - text: FAQ
+          url: /application-writers/faq/index.html
+        - text: Git
+          url: https://git.linaro.org/lng/odp.git
+        - text: API
+          url: api-documentation/master/api/index.html
         - text: User Guide
-          url : /application-writers/users-guide/index.html
-        - text: Developers
-          url : https://github.com/devicetree-org
+          url: /application-writers/users-guide/index.html
+        - text: Support
+          url: /commercial-support/
+        - text: Meeting
+          url: https://collaborate.linaro.org/display/ODP/OpenDataPlane
+        - text: Mailing List
+          url: https://lists.linaro.org/mailman/listinfo/lng-odp
+        - text: Existing Applications
+          url: /applications/
     - title: Developers
       url: /developers/
       items:
@@ -26,8 +38,8 @@ columns:
            url : https://www.opendataplane.org/testing/
          - text: Bugs
            url : https://bugs.linaro.org/describecomponents.cgi?product=OpenDataPlane%20-%20linux-%20generic%20reference
-         - text: API
-           url : /api/index.html
+         - text: APIs
+           url : /api-documentation/index.html
          - text: Implementers Guide
            url : /developers/implementers-guide/index.html
          - text: Release Guide
@@ -37,7 +49,6 @@ columns:
          - text: Bylaws
            url : /developers/bylaws/index.html
     - title: ODP Status
-      url: /developers/
       items:
          - text: Change Log
            url : /developers/changelog/index.html
