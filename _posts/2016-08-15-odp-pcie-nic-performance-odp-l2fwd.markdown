@@ -10,7 +10,7 @@ wordpress_id: 2532
 categories:
 - News Hub
 - Performance
-image: /images/posts/odp-thumb-forwarding-rate.png
+featured_image: /images/posts/odp-thumb-forwarding-rate.png
 ---
 When looking at PCIe NIC based systems performance can be assessed using the ODP PCIe optimised implementation (odp-dpdk, or the generic reference implementation odp-linux can be used, this implementation is not optimised for a specific platform.
 

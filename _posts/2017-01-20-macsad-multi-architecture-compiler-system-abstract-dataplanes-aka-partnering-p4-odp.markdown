@@ -10,7 +10,7 @@ title: 'MACSAD: Multi-Architecture Compiler System for Abstract Dataplanes (aka 
 wordpress_id: 2850
 categories:
 - News Hub
-image: /images/posts/odp-thumb-macsad-multi-architecture-compiler-system-abstract-dataplanes.png
+featured_image: /images/posts/odp-thumb-macsad-multi-architecture-compiler-system-abstract-dataplanes.png
 ---
 
 Software Defined Networking (SDN) strives for deep programmable hardware and software dataplanes without giving up on performance. Domain Specific Languages (DSL) such as P4 seek to provide top-down highlevel capabilities to define the datapath pipeline agnostic to the network platform and independent from any network protocols. At the crossroads, bottom-up industry efforts at the OpenDataPlane (ODP) initiative are pursuing open-source multi-architecture APIs for dataplane programmability across various networking platforms. Towards P4 code reuse for various targets (portability), we propose MACSAD as a compiler system that brings together the higher-level P4 language and the abstract, target-independent ODP APIs. The demo showcases two P4 applications compiled into heterogeneous datapath platforms supporting ODP.

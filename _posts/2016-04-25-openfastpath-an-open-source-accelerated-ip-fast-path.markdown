@@ -9,7 +9,7 @@ title: OpenFastPath – An Open Source Accelerated IP Fast Path
 wordpress_id: 2028
 categories:
 - News Hub
-image: /images/posts/odp-thumb-openfastpath-an-open-source-accelerated-ip-fast-path.jpg
+featured_image: /images/posts/odp-thumb-openfastpath-an-open-source-accelerated-ip-fast-path.jpg
 ---
 
 {% include media.html media_url="https://www.youtube.com/embed/c6qM98_xtjQ" %}
