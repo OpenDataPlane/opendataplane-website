@@ -22,7 +22,7 @@ tags:
 - Orange
 - Software Defined Networking
 - VOQ
-image: /images/posts/odp-thumb-orange-interview.jpg
+featured_image: /images/posts/odp-thumb-orange-interview.jpg
 ---
 
 Linaro Connect USA 2014 - September 18, 2014

@@ -11,7 +11,7 @@ categories:
 - News Hub
 post_format:
 - Image
-image: /images/posts/odp-thumb-l2fwdthing.jpg
+featured_image: /images/posts/odp-thumb-l2fwdthing.jpg
 ---
 {% include image.html name="ODP_DemoFlyerv2.jpg" alt=" LCU14 - LNG - ODP Demo Day" url="http://www.linaro.org/connect/lcu/lcu14/" %}
 

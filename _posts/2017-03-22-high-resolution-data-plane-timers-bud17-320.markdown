@@ -9,7 +9,7 @@ title: High resolution data plane timers - BUD17-320
 wordpress_id: 2886
 categories:
 - News Hub
-image: /images/posts/odp-thumb-high-resolution-data-plane-timers.jpg
+featured_image: /images/posts/odp-thumb-high-resolution-data-plane-timers.jpg
 ---
 
 {% include media.html media_url="https://www.youtube.com/embed/Jt9qRj4lNUQ"%}

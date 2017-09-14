@@ -9,7 +9,7 @@ title: A Scalable Software Scheduler - BUD17-111
 wordpress_id: 2873
 categories:
 - News Hub
-image: /images/posts/odp-thumb-scalable-software-scheduler-bud.png
+featured_image: /images/posts/odp-thumb-scalable-software-scheduler-bud.png
 ---
 
 {% include media.html media_url="https://www.youtube.com/embed/5YQ_Ua3XT-0" %}

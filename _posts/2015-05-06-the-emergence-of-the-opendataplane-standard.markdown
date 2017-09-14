@@ -20,7 +20,7 @@ tags:
 - Opensource
 - SDN
 - Software Defined Networking
-image: /images/posts/odp-thumb-Graphic3.jpg
+featured_image: /images/posts/odp-thumb-Graphic3.jpg
 ---
 
 # OpenDataPlane
