@@ -19,7 +19,7 @@ OpenDataPlane (ODP) project source code.
     http://www.opendataplane.org/
 
 Main git repository:
-    git://git.linaro.org/lng/odp.git
+    https://github.com/Linaro/odp/
 
     How to build:
     Look in platform/linux-*/README for more detail how to build.

@@ -6,7 +6,7 @@ pages:
         url: /application-writers/faq/index.html
       -
         title: Git
-        url: https://git.linaro.org/lng/odp.git
+        url: https://github.com/Linaro/odp/
         external: true
       -
         title: API
@@ -30,7 +30,7 @@ pages:
     list:
       -
         title: Git
-        url: https://git.linaro.org/lng/odp.git
+        url: https://github.com/Linaro/odp/
         external: true
       -
         title: Testing
