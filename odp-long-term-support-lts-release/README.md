@@ -30,7 +30,7 @@ Linaro maintains the ODP API specification and as part of the same repository th
 <tr id="TR_21">
 
 <td id="TD_22" markdown="1">
-{% include image.html name="ODP-icons-status.png" alt="ODP Status Icon" url="http://docs.opendataplane.org/snapshots/odp-release-publish/generic/usr_html/monarch_lts/latest/linux-generic/output/CHANGELOG.html" %}
+{% include image.html name="ODP-icons-status.png" alt="ODP Status Icon" url="/api-documentation/monarch_lts/changelog/index.html" %}
 </td>
 
 <td id="TD_25">LTS API change log</td>
@@ -49,7 +49,7 @@ Linaro maintains the ODP API specification and as part of the same repository th
 <tr id="TR_31">
 
 <td id="TD_32" markdown="1">
-{% include image.html name="user_guide_icon.png" alt="ODP User Guide Icon" url="http://docs.opendataplane.org/snapshots/odp-release-publish/generic/dox_html/monarch_lts/latest/linux-generic-doxygen-html/index.html" %}
+{% include image.html name="user_guide_icon.png" alt="ODP User Guide Icon" url="/api-documentation/monarch_lts/api/index.html" %}
 </td>
 <td id="TD_35">LTS API reference, this contains no information specific to the odp-linux implementation</td>
 </tr>
