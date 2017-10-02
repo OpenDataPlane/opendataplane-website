@@ -7,7 +7,7 @@ columns:
         - text: FAQ
           url: /application-writers/faq/index.html
         - text: Git
-          url: https://git.linaro.org/lng/odp.git
+          url: https://github.com/Linaro/odp/
         - text: API
           url: /api-documentation/master/api/index.html
         - text: User Guide
@@ -22,7 +22,7 @@ columns:
       url: /developers/
       items:
          - text: Git
-           url : https://git.linaro.org/lng/odp.git
+           url : https://github.com/Linaro/odp/
          - text: Testing
            url : https://www.opendataplane.org/testing/
          - text: APIs

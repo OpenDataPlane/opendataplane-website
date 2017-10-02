@@ -40,7 +40,7 @@ Linaro maintains the ODP API specification and as part of the same repository th
 <tr id="TR_26">
 
 <td id="TD_27" markdown="1">
-{% include image.html name="git-icon.png" alt="ODP Git Icon" url="https://git.linaro.org/lng/odp.git" %}
+{% include image.html name="git-icon.png" alt="ODP Git Icon" url="https://github.com/Linaro/odp/" %}
 </td>
 
 <td id="TD_30">OpenDataPlane LTS Git branch containing the Stable API, the reference implementation, example, tests and helpers.</td>

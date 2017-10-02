@@ -33,7 +33,7 @@ An essential component of ODP is the _Validation Test Suite_. This is a comprehe
 
 <div class="row">
     <div class="col-md-3 col-xs-6 feature">
-        <a href="https://git.linaro.org/lng/odp.git">
+        <a href="https://github.com/Linaro/odp/">
             <img class="feature-image center-block" src="/assets/images/git-icon.png" alt="Git Icon ODP"/>
         </a>
     </div>

@@ -27,7 +27,7 @@ ODP supports both polling and event driven programming models for packet process
 
 <div class="row">
 <div class="col-md-3 col-xs-6 feature" markdown="1">
-{% include image.html name="odp_linux_icon.png" alt="ODP Linux Git Icon" url="https://git.linaro.org/lng/odp.git"%}
+{% include image.html name="odp_linux_icon.png" alt="ODP Linux Git Icon" url="https://github.com/Linaro/odp/"%}
 <h4 class="text-center">odp-linux (Git)</h4>
 </div>
 <div class="col-md-3 col-xs-6 feature" markdown="1">
