@@ -65,21 +65,21 @@ The ODP project has been established to produce an open-source, cross-platform s
     <div class="col-sm-6 odp-home-page-panel">
         <div class="row">   
             <div class="col-xs-3">
-                <a href="https://www.opendataplane.org/opendataplane.org/odp-long-term-support-lts-release/">
+                <a href="https://www.opendataplane.org/odp-long-term-support-lts-release/">
                     <img src="/assets/images/monarchs-odp.png" class="img-responsive center-block" alt="OpenDataPlane Stable Version Icon"/>
                 </a>
             </div>
             <div class="col-xs-9 text-center">
                 <h3>OpenDataPlane</h3>
                 <br/>
-                <a href="https://www.opendataplane.org/opendataplane.org/odp-long-term-support-lts-release/" class="btn btn-default center-block">Long Term Stable</a>
+                <a href="https://www.opendataplane.org/odp-long-term-support-lts-release/" class="btn btn-default center-block">Long Term Stable</a>
             </div>
         </div>
     </div>
     <div class="col-sm-6 odp-home-page-panel">
             <div class="row">
                 <div class="col-xs-3">
-                    <a href="https://www.opendataplane.org/opendataplane.org/odp-long-term-support-lts-release/">
+                    <a href="https://www.opendataplane.org/odp-long-term-support-lts-release/">
                         <img src="/assets/images/odp-contributing.png" class="img-responsive center-block" alt="Contribute to OpenDataPlane Icon"/>
                     </a>
                 </div>
