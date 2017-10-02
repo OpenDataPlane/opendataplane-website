@@ -18,7 +18,7 @@ tags:
 - networking
 - ODP
 - OpenDataPlane
-image: /images/posts/odp-thumb-hisilicondemopic.png
+featured_image: /images/posts/odp-thumb-hisilicondemopic.png
 ---
 
 {% include image.html name="connectfooter.png" alt="Connect Footer Image" url="http://connect.linaro.org/hkg15/"%}

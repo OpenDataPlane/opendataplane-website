@@ -30,7 +30,7 @@ tags:
 - Opensource
 - SDN
 - Software Defined Networking
-image: /images/posts/odp-thumb-ODPv1.0_logo6.jpg
+featured_image: /images/posts/odp-thumb-ODPv1.0_logo6.jpg
 ---
 
 {% include image.html name="ODPv1.0_logo6.jpg" alt="ODPv1.0_logo6" %}

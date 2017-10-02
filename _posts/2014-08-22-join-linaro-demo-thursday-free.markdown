@@ -16,7 +16,7 @@ tags:
 - Linaro
 - Linaro Connect
 - OpenDataPlane
-image: /images/posts/odp-thumb-1.jpg
+featured_image: /images/posts/odp-thumb-1.jpg
 ---
 
 <blockquote markdown="1">

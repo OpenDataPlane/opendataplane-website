@@ -22,7 +22,7 @@ tags:
 - Open source
 - OpenDataPlane
 - Opensource
-image: /images/posts/odp-thumb-armwebinar.jpg
+featured_image: /images/posts/odp-thumb-armwebinar.jpg
 ---
 
 {% include image.html name="armwebinar.jpg" alt="Arm Webinar Image"%}

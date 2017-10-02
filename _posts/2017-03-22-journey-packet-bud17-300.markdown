@@ -9,7 +9,7 @@ title: Journey of a packet - BUD17-300
 wordpress_id: 2877
 categories:
 - News Hub
-image: /images/posts/odp-thumb-journey-of-a-packet.jpg
+featured_image: /images/posts/odp-thumb-journey-of-a-packet.jpg
 ---
 
 {% include media.html media_url="https://www.youtube.com/embed/wRZXw_xBT20" %}

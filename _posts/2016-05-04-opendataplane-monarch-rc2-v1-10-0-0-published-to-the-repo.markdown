@@ -9,7 +9,7 @@ title: OpenDataPlane Monarch RC2 v1.10.0.0 published to the repo!
 wordpress_id: 2075
 categories:
 - News Hub
-image: /images/posts/odp-thumb-linksprite-display-mezzanine.png
+featured_image: /images/posts/odp-thumb-linksprite-display-mezzanine.png
 ---
 
 [Monarch RC2 v1.10.1.0](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.10.1.0)

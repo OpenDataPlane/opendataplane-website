@@ -109,11 +109,11 @@ The ODP project has been established to produce an open-source, cross-platform s
                     <a href="{{blog.url}}">
                         <div class="recent_post_image">
                             <img class="recent_post_image" src="
-                            {% if blog.image %}
+                            {% if blog.featured_image %}
                                 {% if site.using_assets %}
-                                    {% asset_path '{{blog.image}}' %}
+                                    {% asset_path '{{blog.featured_image}}' %}
                                 {% else %}
-                                    /assets{{blog.image}}
+                                    /assets{{blog.featured_image}}
                                 {% endif %}
                             {% else %}
                                 {% if site.using_assets %}

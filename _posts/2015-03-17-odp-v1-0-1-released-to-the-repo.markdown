@@ -24,6 +24,6 @@ tags:
 - release
 - SDN
 - Software Defined Networking
-image: /images/posts/odp-thumb-ODPv1.0.1tag.png
+featured_image: /images/posts/odp-thumb-ODPv1.0.1tag.png
 ---
 {% include image.html name="ODPv1.0.1tag.png" alt="ODPv1.0.1 Tag" url="https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.0.1"%}
