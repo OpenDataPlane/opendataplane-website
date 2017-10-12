@@ -31,7 +31,7 @@ ODP supports both polling and event driven programming models for packet process
 <h4 class="text-center">odp-linux (Git)</h4>
 </div>
 <div class="col-md-3 col-xs-6 feature" markdown="1">
-{% include image.html name="api_icon.png" alt="API Docs Icon" url="-documentation/index.html" %}
+{% include image.html name="api_icon.png" alt="API Docs Icon" url="/api-documentation/index.html" %}
 <h4 class="text-center">API Documentation</h4>
 </div>
 <div class="col-md-3 col-xs-6 feature" markdown="1">
