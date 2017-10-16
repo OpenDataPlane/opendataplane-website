@@ -22,7 +22,7 @@ tags:
 ---
 {% include image.html name="ODPv1.6.0tag.png" alt="ODPv1.6.0tag"%}
 
-[The OpenDataPlane team is pleased to announce the ODP v1.6.0](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.6.0.0) release of the OpenDataPlane API's. Features delivered:
+[The OpenDataPlane team is pleased to announce the ODP v1.6.0](https://git.linaro.org/lng/odp.git/tag/?h=v1.6.0.0) release of the OpenDataPlane API's. Features delivered:
 
 ## Epic
 
@@ -135,7 +135,7 @@ tags:
   * [[ODP-264](https://projects.linaro.org/browse/ODP-264)] – Attach new ODP repos to CI
 
 
-[OpenDataPlane v1.6.0.0](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.6.0.0)
+[OpenDataPlane v1.6.0.0](https://git.linaro.org/lng/odp.git/tag/?h=v1.6.0.0)
 * API:
 
 – api: atomic: clean atomic API documentation
