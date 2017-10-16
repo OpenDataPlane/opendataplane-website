@@ -25,7 +25,7 @@ tags:
 ---
 {% include image.html name="ODPv1.8.0.0tag.png" alt="ODPv1.8.0.0tag" %}
 
-[The OpenDataPlane team is pleased to announce the ODP v1.8.0.0 Monarch RC1](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.8.0.0) release of the OpenDataPlane API's. Features delivered:
+[The OpenDataPlane team is pleased to announce the ODP v1.8.0.0 Monarch RC1](https://git.linaro.org/lng/odp.git/tag/?h=v1.8.0.0) release of the OpenDataPlane API's. Features delivered:
 
 ## Epic
 
@@ -115,7 +115,7 @@ tags:
 
 
 
-## [OpenDataPlane v1.8.0.0](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.8.0.0)
+## [OpenDataPlane v1.8.0.0](https://git.linaro.org/lng/odp.git/tag/?h=v1.8.0.0)
 
 
 * API:

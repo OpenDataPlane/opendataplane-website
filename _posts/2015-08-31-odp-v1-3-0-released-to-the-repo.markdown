@@ -21,7 +21,7 @@ tags:
 ---
 {% include image.html name="ODPv1.3.0tag-218x300.png" alt="ODPv1.3.0tag"%}
 
-[ODP v1.3.0 tag](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.3.0.0). Released. Features included in this release:
+[ODP v1.3.0 tag](https://git.linaro.org/lng/odp.git/tag/?h=v1.3.0.0). Released. Features included in this release:
 **API**
 – codespell: correct spelling
 

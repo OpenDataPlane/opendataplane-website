@@ -155,7 +155,7 @@ tags:
 
 ## GIT Repo tag information:
 
-[ODP v1.4.0 tag](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.4.0.0). Released. Features included in this release:
+[ODP v1.4.0 tag](https://git.linaro.org/lng/odp.git/tag/?h=v1.4.0.0). Released. Features included in this release:
 * API:
 
 – **Classification**

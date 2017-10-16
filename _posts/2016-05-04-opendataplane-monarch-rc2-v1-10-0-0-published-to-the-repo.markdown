@@ -12,4 +12,4 @@ categories:
 featured_image: /images/posts/odp-thumb-linksprite-display-mezzanine.png
 ---
 
-[Monarch RC2 v1.10.1.0](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.10.1.0)
+[Monarch RC2 v1.10.1.0](https://git.linaro.org/lng/odp.git/tag/?h=v1.10.1.0)
