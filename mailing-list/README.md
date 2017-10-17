@@ -7,8 +7,6 @@ permalink: /mailing-list/
 
 Functional API test implementation that requires only a recent Linux kernel. This implementation can form the starting point for a new platform specific high performance implementation, providing hardware acceleration and/or optimized libraries.
 
-Mailing list [signup](http://lists.linaro.org/mailman/listinfo/lng-odp) and [archive](http://lists.linaro.org/pipermail/lng-odp/).
-
 ### ODP-DPDK
 
 An example of a specific platform implementation intended for high performance of ODP, in this case ODP in implemented using the DPDK libraries and targets X86 processor optimizations.
