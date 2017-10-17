@@ -26,7 +26,7 @@ tags:
 ---
 {% include image.html name="ODPv1.7.0.0tag-399x1024.png" alt="ODPv1.7.0.0tag Image"%}
 
-[The OpenDataPlane team is pleased to announce the ODP v1.7.0.0](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.7.0.0) release of the OpenDataPlane API's. Features delivered:
+[The OpenDataPlane team is pleased to announce the ODP v1.7.0.0](https://git.linaro.org/lng/odp.git/tag/?h=v1.7.0.0) release of the OpenDataPlane API's. Features delivered:
 
 
 ## Epic
@@ -134,7 +134,7 @@ tags:
   * [[ODP-338](https://projects.linaro.org/browse/ODP-338)] – Correct shmem test to show treads nums
 
 
-[OpenDataPlane v1.7.0.0](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.7.0.0)
+[OpenDataPlane v1.7.0.0](https://git.linaro.org/lng/odp.git/tag/?h=v1.7.0.0)
 
 * API:
 

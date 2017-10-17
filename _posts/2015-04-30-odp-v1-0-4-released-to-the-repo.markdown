@@ -27,4 +27,4 @@ tags:
 featured_image: /images/posts/odp-thumb-ODPv1.1.04.png
 ---
 
-{% include image.html name="ODPv1.0.4tag.png" alt="ODPv1.0.4tag Image" url="https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.0.4"%}
+{% include image.html name="ODPv1.0.4tag.png" alt="ODPv1.0.4tag Image" url="https://git.linaro.org/lng/odp.git/tag/?h=v1.0.4"%}

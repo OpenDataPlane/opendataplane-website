@@ -18,9 +18,9 @@ tags:
 - SDN
 - Software Defined Networking
 ---
-{% include image.html  name="ODPv1.2.0tag-532x1024.png" alt="ODPv1.2.0tag" url="https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.2.0.0" %}
+{% include image.html  name="ODPv1.2.0tag-532x1024.png" alt="ODPv1.2.0tag" url="https://git.linaro.org/lng/odp.git/tag/?h=v1.2.0.0" %}
 
-[ODP v1.2.0 tag](https://git.linaro.org/lng/odp.git/tag/refs/tags/v1.2.0.0). was released. Re-planned v1.2.0 due to delays and re-prioritization from San Jose Engineering Sprint. Features released:
+[ODP v1.2.0 tag](https://git.linaro.org/lng/odp.git/tag/?h=v1.2.0.0). was released. Re-planned v1.2.0 due to delays and re-prioritization from San Jose Engineering Sprint. Features released:
 API:
 
 – docs: doxygen grouping clean up and remove excess references to ODP
