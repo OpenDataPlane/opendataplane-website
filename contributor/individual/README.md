@@ -14,7 +14,7 @@ Please read and sign one of the forms below.
 The first document is the hard copy agreement.
 It can be printed, completed, and emailed and/or mailed in to Linaro for record keeping.
 
-[ODP Individual Contributor License Agreement](https://www.opendataplane.org/contributor/individual/ODP-ContributorLicense_Individual.pdf)
+[ODP Individual Contributor License Agreement](/contributor/individual/ODP-ContributorLicense_Individual.pdf)
 
 **Electronically agreement sign**
 

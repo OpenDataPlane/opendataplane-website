@@ -8,7 +8,7 @@ layout: default-plain
 ## Corporate Contributor
 
 Please download
-**[ODP Corporate Contributor License Agreement](https://www.opendataplane.org/contributor/corporate/ODP-ContributorLicense_Corporate.pdf)** and email the signed copy to legal@linaro.org
+**[ODP Corporate Contributor License Agreement](/contributor/corporate/ODP-ContributorLicense_Corporate.pdf)** and email the signed copy to legal@linaro.org
 
 
 * * *
