@@ -1,7 +1,6 @@
 ---
 title: Individual Contributor License Agreement
-description: |-
-	Link to Individual Contributor License Agreement document.
+description: Link to Individual Contributor License Agreement document.
 layout: default-plain
 permalink: /contributor/individual/
 ---
