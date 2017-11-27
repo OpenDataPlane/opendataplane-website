@@ -107,7 +107,7 @@ Account Access implementations**
 </td>
 
 <td id="TD_62" markdown="1">
-[ODP Monarch](https://github.com/Linaro/odp-thunderx)
+[Link](https://github.com/Linaro/odp-thunderx)
 </td>
 
 <td id="TD_64">ThunderX CN88xx 24-48 core ARMv8 OCTEON TX CN83/81xx 1-24 core ARMv8</td>
@@ -121,7 +121,7 @@ Account Access implementations**
 </td>
 
 <td id="TD_71" markdown="1">
-[ODP v1.6.0.0](https://github.com/kalray/odp-mppa/)
+[Link](https://github.com/kalray/odp-mppa/)
 </td>
 
 <td id="TD_73">MPPA</td>
@@ -135,7 +135,7 @@ Account Access implementations**
 </td>
 
 <td id="TD_78" markdown="1">
-[ODP Monarch](http://git.freescale.com/git/cgit.cgi/ppc/sdk/odp.git/?h=fsl_odp_v16.07_qoriq)
+[Link](http://git.freescale.com/git/cgit.cgi/ppc/sdk/odp.git/?h=fsl_odp_v16.07_qoriq)
 </td>
 
 <td id="TD_80">QorIQ – ARM based DPAA2 architecture LS2080, LS2085 QorIQ – ARM & PowerPC based DPAA architecture LS1043</td>
@@ -149,7 +149,7 @@ Account Access implementations**
 </td>
 
 <td id="TD_87" markdown="1">
-[ODP v1.6.0.0](https://git.linaro.org/lng/odp-keystone2.git)
+[Link](https://git.linaro.org/lng/odp-keystone2.git)
 </td>
 
 </tr>
@@ -161,7 +161,7 @@ Account Access implementations**
 </td>
 
 <td id="TD_94" markdown="1">
-[Monarch](https://git.linaro.org/lng/odp-dpdk.git)
+[Link](https://git.linaro.org/lng/odp-dpdk.git)
 </td>
 
 <td id="TD_96">PCIe NIC optimised implementation (odp-dpdk)</td>
@@ -170,10 +170,10 @@ Account Access implementations**
 
 <tr id="TR_90">
 <td id="TD_91" markdown="1">
-[![Marvell Armada](https://www.marvell.com/assets/images/marvell-logo2.svg)](https://www.marvell.com)
+[![Marvell](https://www.marvell.com/assets/images/marvell-logo2.svg)](https://www.marvell.com)
 </td>
 <td id="TD_94" markdown="1">
-[Marvell Armada](https://github.com/MarvellEmbeddedProcessors/odp-marvell)
+[Link](https://github.com/MarvellEmbeddedProcessors/odp-marvell)
 </td>
 <td id="TD_96">Marvell ARMADA SoC Implementation.</td>
 </tr>
