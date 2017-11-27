@@ -21,8 +21,14 @@ of the ODP reference from Git**
 <th>
 </th>
 
-<th colspan="1" id="TH_17">odp-linux pktio types
-(Socket, Netmap, DPDK)</th>
+<th colspan="1" id="TH_17">odp-linux
+pktio types:
+ - Socket
+ - Netmap
+ - DPDK
+ - TAP
+ - Loop
+</th>
 
 </tr>
 
