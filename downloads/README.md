@@ -168,6 +168,17 @@ Account Access implementations**
 
 </tr>
 
+<tr id="TR_90">
+<td id="TD_91" markdown="1">
+[![Marvell Armada](https://www.marvell.com/assets/images/marvell-logo2.svg)](https://www.marvell.com)
+</td>
+<td id="TD_94" markdown="1">
+[Marvell Armada](https://github.com/MarvellEmbeddedProcessors/odp-marvell)
+</td>
+<td id="TD_96">Marvell ARMADA SoC Implementation.</td>
+</tr>
+
+
 </tbody>
 
 </table>
