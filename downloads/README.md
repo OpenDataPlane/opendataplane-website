@@ -9,7 +9,7 @@ permalink: /downloads/
 ## Downloads
 <div class="row">
 <div class="col-md-6" markdown="1">
-**Download the latest version  
+**Download the latest version
 of the ODP reference from Git**
 <div class="responsive-table">
 <table id="TABLE_13">
@@ -21,7 +21,7 @@ of the ODP reference from Git**
 <th>
 </th>
 
-<th colspan="1" id="TH_17">odp-linux pktio types  
+<th colspan="1" id="TH_17">odp-linux pktio types
 (Socket, Netmap, DPDK)</th>
 
 </tr>
@@ -77,7 +77,7 @@ of the ODP reference from Git**
 
 <div class="col-md-6" markdown="1">
 
-**Download other Open and Support  
+**Download other Open and Support
 Account Access implementations**
 
 <div class="responsive-table">
@@ -207,7 +207,7 @@ You can also try the script [hello world](http://opendataplane.org/hello-world/)
 
 ### OpenDataPlane odp-linux vs odp-dpdk
 
-**odp-linux** can interface with DPDK poll mode drivers as an option vs the socket interface. However it retains everything else that is part of the generic Linux implementation, including for example the buffer management implementation. Therefore it has to copy everything during receive and transmit between its own buffers and DPDK ones.  
+**odp-linux** can interface with DPDK poll mode drivers as an option vs the socket interface. However it retains everything else that is part of the generic Linux implementation, including for example the buffer management implementation. Therefore it has to copy everything during receive and transmit between its own buffers and DPDK ones.
 The advantage is that compared to the default socket interface both the Netmap and DPDK pktios are faster when testing the generic case although no other hardware acceleration support is provided.
 
 **odp-dpdk** is derived from odp-linux, but it is optimized using the full DPDK SDK, and tries to connect as much DPDK API’s to ODP as possible. It uses DPDK buffer management underneath, so it doesn’t need the aforementioned copy.
