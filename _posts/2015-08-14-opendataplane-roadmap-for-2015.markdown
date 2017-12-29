@@ -29,8 +29,8 @@ There are now two interactive versions of the ODP Roadmap for 2015 Q3 and Q4 pub
 
 Check them out below:
 
-[View the full timeline version of the OpenDataPlane Roadmap.](https://app.roadmunk.com/publish/381bb83596f9e28a1bf3730fbc0b3644f0b50e89) 
+[View the full timeline version of the OpenDataPlane Roadmap.]() 
 
-[View the swimlane version of the OpenDataPlane Roadmap.](https://app.roadmunk.com/publish/d5be9f8b47483fa7318889779d4f0edf0f4740f3)
+[View the swimlane version of the OpenDataPlane Roadmap.]()
 
 {% include image.html name="roadmap.jpg" alt="Featured Roadmap" %}

@@ -9,7 +9,7 @@ permalink: /downloads/
 ## Downloads
 <div class="row">
 <div class="col-md-6" markdown="1">
-**Download the latest version  
+**Download the latest version
 of the ODP reference from Git**
 <div class="responsive-table">
 <table id="TABLE_13">
@@ -21,8 +21,14 @@ of the ODP reference from Git**
 <th>
 </th>
 
-<th colspan="1" id="TH_17">odp-linux pktio types  
-(Socket, Netmap, DPDK)</th>
+<th colspan="1" id="TH_17">odp-linux
+pktio types:
+ - Socket
+ - Netmap
+ - DPDK
+ - TAP
+ - Loop
+</th>
 
 </tr>
 
@@ -77,7 +83,7 @@ of the ODP reference from Git**
 
 <div class="col-md-6" markdown="1">
 
-**Download other Open and Support  
+**Download other Open and Support
 Account Access implementations**
 
 <div class="responsive-table">
@@ -107,7 +113,7 @@ Account Access implementations**
 </td>
 
 <td id="TD_62" markdown="1">
-[ODP Monarch](https://github.com/Linaro/odp-thunderx)
+[Link](https://github.com/Linaro/odp-thunderx)
 </td>
 
 <td id="TD_64">ThunderX CN88xx 24-48 core ARMv8 OCTEON TX CN83/81xx 1-24 core ARMv8</td>
@@ -121,7 +127,7 @@ Account Access implementations**
 </td>
 
 <td id="TD_71" markdown="1">
-[ODP v1.6.0.0](https://github.com/kalray/odp-mppa/)
+[Link](https://github.com/kalray/odp-mppa/)
 </td>
 
 <td id="TD_73">MPPA</td>
@@ -135,7 +141,7 @@ Account Access implementations**
 </td>
 
 <td id="TD_78" markdown="1">
-[ODP Monarch](http://git.freescale.com/git/cgit.cgi/ppc/sdk/odp.git/?h=fsl_odp_v16.07_qoriq)
+[Link](http://git.freescale.com/git/cgit.cgi/ppc/sdk/odp.git/?h=fsl_odp_v16.07_qoriq)
 </td>
 
 <td id="TD_80">QorIQ – ARM based DPAA2 architecture LS2080, LS2085 QorIQ – ARM & PowerPC based DPAA architecture LS1043</td>
@@ -149,7 +155,7 @@ Account Access implementations**
 </td>
 
 <td id="TD_87" markdown="1">
-[ODP v1.6.0.0](https://git.linaro.org/lng/odp-keystone2.git)
+[Link](https://git.linaro.org/lng/odp-keystone2.git)
 </td>
 
 </tr>
@@ -161,12 +167,23 @@ Account Access implementations**
 </td>
 
 <td id="TD_94" markdown="1">
-[Monarch](https://git.linaro.org/lng/odp-dpdk.git)
+[Link](https://github.com/Linaro/odp-dpdk)
 </td>
 
-<td id="TD_96">PCIe NIC optimised implementation (odp-dpdk)</td>
+<td id="TD_96">ODP-DPDK: SW optimized implementation using DPDK</td>
 
 </tr>
+
+<tr id="TR_90">
+<td id="TD_91" markdown="1">
+[![Marvell](https://www.marvell.com/assets/images/marvell-logo2.svg)](https://www.marvell.com)
+</td>
+<td id="TD_94" markdown="1">
+[Link](https://github.com/MarvellEmbeddedProcessors/odp-marvell)
+</td>
+<td id="TD_96">Marvell ARMADA SoC Implementation.</td>
+</tr>
+
 
 </tbody>
 
@@ -207,12 +224,10 @@ You can also try the script [hello world](http://opendataplane.org/hello-world/)
 
 ### OpenDataPlane odp-linux vs odp-dpdk
 
-**odp-linux** can interface with DPDK poll mode drivers as an option vs the socket interface. However it retains everything else that is part of the generic Linux implementation, including for example the buffer management implementation. Therefore it has to copy everything during receive and transmit between its own buffers and DPDK ones.  
+**odp-linux** can interface with DPDK poll mode drivers as an option vs the socket interface. However it retains everything else that is part of the generic Linux implementation, including for example the buffer management implementation.
 The advantage is that compared to the default socket interface both the Netmap and DPDK pktios are faster when testing the generic case although no other hardware acceleration support is provided.
 
 **odp-dpdk** is derived from odp-linux, but it is optimized using the full DPDK SDK, and tries to connect as much DPDK API’s to ODP as possible. It uses DPDK buffer management underneath, so it doesn’t need the aforementioned copy.
-
-**odp-nextmap** does not exist, Netmap does not offer any additional acceleration features that need to be optimized for in a dedicated odp implementation.
 
 **odp-“x”** as can be seen various other open and closed implementations exist and they can be downloaded from the vendor for their hardware, the list is not exhaustive
 </div>
