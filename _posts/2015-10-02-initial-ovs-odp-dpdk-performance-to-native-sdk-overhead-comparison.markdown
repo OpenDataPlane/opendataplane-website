@@ -37,5 +37,3 @@ The ODP API specification is nothing if it cannot efficiently abstract a platfor
 {% include progress.html text="12 - OVS-ODP-DPDK @ HKG2015" value="84.5" %}
 {% include progress.html text="13.8 - OVS-ODP-DPDK @ SFO2015" value="97.2" %}
 * units are in Mpps as a percentage of theoretical maximum
-
-[Download the full presentation](http://opendataplane.org///wp-content/uploads/2014/01/SFO15-408-ODP-DPDK-platform-performance.pdf)

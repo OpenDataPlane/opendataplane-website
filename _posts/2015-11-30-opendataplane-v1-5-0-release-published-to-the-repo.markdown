@@ -28,8 +28,6 @@ tags:
 - Software Defined Networking
 ---
 
-![ODPv1.5.0tag](http://opendataplane.org///wp-content/uploads/2014/01/ODPv1.5.0tag-154x300.png)
-
 [The OpenDataPlane team is pleased to announce the ODP v1.5.0](https://git.linaro.org/lng/odp.git/tag/?h=v1.5.0.0) release of the OpenDataPlane API's. Features delivered:
 
 

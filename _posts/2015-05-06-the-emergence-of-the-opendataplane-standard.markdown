@@ -33,7 +33,7 @@ Originally posted on the ARM Connected Community.
 Read the new white paper about OpenDataPlane (ODP), a standardized data plane API that can be used to support Linux-based network applications across the array of silicon architectures and hardware/software configurations.
 
 
-## Author: [Bob Monkman](http://community.arm.com/people/bobmonkman), ARM Networking Segment Marketing Manager.
+## Author: Bob Monkman, ARM Networking Segment Marketing Manager.
 
 
 **Table of contents**
@@ -78,5 +78,5 @@ Read the new white paper about OpenDataPlane (ODP), a standardized data plane AP
 
 
 
-[![base.document](http://community.arm.com/6.0.3.0/images/transparent.png)](http://community.arm.com/servlet/JiveServlet/previewBody/10220-102-14-20125/ODP%20White%20Paper_Final.pdf)[ODP White Paper_Final.pdf](http://community.arm.com/servlet/JiveServlet/downloadBody/10220-102-14-20125/ODP%20White%20Paper_Final.pdf) (703.9 K)
+[ODP White Paper_Final.pdf](http://community.arm.com/servlet/JiveServlet/downloadBody/10220-102-14-20125/ODP%20White%20Paper_Final.pdf) (703.9 K)
 [View](http://community.arm.com/servlet/JiveServlet/previewBody/10220-102-14-20125/ODP%20White%20Paper_Final.pdf)  [Download](http://community.arm.com/servlet/JiveServlet/downloadBody/10220-102-14-20125/ODP%20White%20Paper_Final.pdf)

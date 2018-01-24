@@ -27,7 +27,7 @@ The ODP project is managed in a transparent manner. Our weekly meetings are open
 
 ODP is currently [supported](/supporters/) by over a dozen network hardware and software industry companies. The supporting organizations are generally members of the Linaro Network Group (LNG). Members of LNG also have voting positions on the LNG Steering Committee (LNG-SC). The LNG-SC maintains privileges for overall direction and governance over the ODP project and product road map.
 
-By-laws and Release Plan information may be found [here](/about/by-laws-release-plan/). You may also find great information in the [OpenDataPlane F.A.Q.](/developers/faq/)
+You may also find great information in the [OpenDataPlane F.A.Q.](/faq/)
 
 #### Get Involved
 
