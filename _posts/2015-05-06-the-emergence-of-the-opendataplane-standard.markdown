@@ -78,5 +78,4 @@ Read the new white paper about OpenDataPlane (ODP), a standardized data plane AP
 
 
 
-[ODP White Paper_Final.pdf](http://community.arm.com/servlet/JiveServlet/downloadBody/10220-102-14-20125/ODP%20White%20Paper_Final.pdf) (703.9 K)
-[View](http://community.arm.com/servlet/JiveServlet/previewBody/10220-102-14-20125/ODP%20White%20Paper_Final.pdf)  [Download](http://community.arm.com/servlet/JiveServlet/downloadBody/10220-102-14-20125/ODP%20White%20Paper_Final.pdf)
+[ODP White Paper](https://community.arm.com/cfs-file/__key/telligent-evolution-components-attachments/01-1996-00-00-00-00-62-45/ODP-White-Paper_5F00_Final.pdf)
