@@ -11,4 +11,4 @@ categories:
 - News Hub
 ---
 
-View the presentation given by Roz Roseboro at OPNFV Summit titled "What Operators think about OPNFV" -- [View Presentation](http://www.opendataplane.org/wp-content/uploads/2016/07/opnfv_survey_results_presentation-r_roseboro.pdf)
+View the presentation given by Roz Roseboro at OPNFV Summit titled "What Operators think about OPNFV" -- [View Presentation](https://www.opnfv.org/wp-content/uploads/sites/12/2016/11/opnfv_survey_results_presentation-r_roseboro.pdf)

@@ -708,7 +708,7 @@ genhtml ${TOPDIR}/${PLATFORM}-coverage.info --output-directory ${TOPDIR}/${PLATF
   <div id="collapseFourTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFourTwo">
     <div class="panel-body">
     <p id="P_282">
-        You can re-use the CI scripts that run all ODP [regression testing] -&gt; http://opendataplane.org///testing/
+        You can re-use the CI scripts that run all ODP [regression testing](/testing/)
         <br id="BR_283" /> Assuming that you have your odp repo at ~/git/odp and it contains your committed changes that you then created patches for with git format-patch
     </p>
     <pre id="PRE_284"><code id="CODE_285">
@@ -766,7 +766,7 @@ CUNIT_VERSION:	 Change version from sourceforge.net, default: 2.1-3
   <div id="collapseFourThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFourThree">
     <div class="panel-body">
     <p id="P_297">
-        You can re-use the CI scripts that run all ODP [regression testing] -&gt; <a href="http://opendataplane.org///testing/" id="A_298">http://opendataplane.org///testing/</a>
+        You can re-use the CI scripts that run all ODP [regression testing](/testing/)
         <br id="BR_299" /> Assuming that you have your odp repo at ~/git/odp and it contains your committed changes.
     </p>
     <pre id="PRE_300"><code id="CODE_301">git clone http://git.linaro.org/lng/check-odp.git

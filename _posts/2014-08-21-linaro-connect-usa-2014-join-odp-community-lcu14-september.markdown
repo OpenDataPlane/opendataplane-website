@@ -24,6 +24,6 @@ Demonstrations:
   * Isolated ODP L2FWD - level 2 forwarding application, running on a linux isolated core, using ODP-L2FWD accelerated on X86 via ODP-DPDK
   * ODP-L3 IPSEC Router - ODP L3 IPv4 router which supports IPsec 3DES cipher and HMAC-MD5 authentication implemented on four different SoC platforms and linux-generic
 
-{% include image.html name="lcu14.jpg" alt="LCU14 Building the future of linux on ARM" url="http://www.linaro.org/connect/lcu/lcu14/"%}
+{% include image.html name="lcu14.jpg" alt="LCU14 Building the future of linux on ARM" url="https://connect.linaro.org/lcu14/"%}
 
-[http://www.linaro.org/connect/lcu/lcu14/](http://www.linaro.org/connect/lcu/lcu14/)
+[https://connect.linaro.org/lcu14/](https://connect.linaro.org/lcu14/)
