@@ -27,4 +27,4 @@ In the second demo, an ODP-enhanced version of OpenVPN was used to pass UDP traf
 These demonstrations illustrated the cross-platform, cross-architecture goals of the ODP project: to provide a common API framework for use by data plane applications running across a variety of platforms and processor architectures.  Over the course of 2014 a number of additional ODP Reference implementations will be added covering more SoCs and architectures to further realize this goal, leading to a formal ODP Release 1.0 for later this year.
 
 
-[Contact us for more infomation](http://opendataplane.org///contact/)
+[Contact us for more infomation](/contact/)

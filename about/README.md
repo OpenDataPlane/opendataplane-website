@@ -25,12 +25,12 @@ If you or your company are interested in participating in this effort, please se
 
 The ODP project is managed in a transparent manner. Our weekly meetings are open to the public. Contributors and interested parties are welcome to join us. ODP roadmap plans are discussed at each Linaro Connect [event](http://connect.linaro.org/) (held twice per year). Linaro and its members also host live engineering sprints on an as needed basis, covering specialized topics where intense collaboration benefits the project.
 
-ODP is currently [supported](http://opendataplane.org///supporters/) by over a dozen network hardware and software industry companies. The supporting organizations are generally members of the Linaro Network Group (LNG). Members of LNG also have voting positions on the LNG Steering Committee (LNG-SC). The LNG-SC maintains privileges for overall direction and governance over the ODP project and product road map.
+ODP is currently [supported](/supporters/) by over a dozen network hardware and software industry companies. The supporting organizations are generally members of the Linaro Network Group (LNG). Members of LNG also have voting positions on the LNG Steering Committee (LNG-SC). The LNG-SC maintains privileges for overall direction and governance over the ODP project and product road map.
 
-By-laws and Release Plan information may be found [here](http://opendataplane.org///about/by-laws-release-plan/). You may also find great information in the [OpenDataPlane F.A.Q.](http://opendataplane.org///developers/faq/)
+By-laws and Release Plan information may be found [here](/about/by-laws-release-plan/). You may also find great information in the [OpenDataPlane F.A.Q.](/developers/faq/)
 
 #### Get Involved
 
-Please join us on Tuesday’s regular public meeting at 15:00 UTC at[meetings.opendataplane.org](http://meetings.opendataplane.org/). View the [ODP Meeting Minutes](https://collaborate.linaro.org/display/ODP/OpenDataPlane).
+Please join us on Tuesday’s regular public meeting at 15:00 UTC at [meetings.opendataplane.org](http://meetings.opendataplane.org/). View the [ODP Meeting Minutes](https://collaborate.linaro.org/display/ODP/OpenDataPlane).
 
-ODP related [mailing](http://www.opendataplane.org/mailing-list/) [lists](http://www.opendataplane.org/mailing-list/).
+ODP related [mailing lists](/mailing-list/).

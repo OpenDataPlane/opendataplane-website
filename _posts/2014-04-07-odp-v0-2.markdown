@@ -51,4 +51,4 @@ This is the second developmental release for ODP includes following key updates:
   * Port libpcap to support odp queues for incoming packets;
 
 
-Please refer to  [http://www.opendataplane.org/downloads/](http://opendataplane.org///downloads/) for API documentation and other project related links.
+Please refer to  [http://www.opendataplane.org/downloads/](/downloads/) for API documentation and other project related links.
