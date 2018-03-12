@@ -1,5 +1,5 @@
 ---
-title: OP-TEE
+title: Welcome to the OpenDataPlane Project.
 permalink: "/"
 layout: home
 ---
