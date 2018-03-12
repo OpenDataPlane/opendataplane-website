@@ -1,7 +1,7 @@
 ---
 title: Search
 permalink: /search/
-layout: default-plain
+layout: container-breadcrumb
 specific_js: /assets/js/app/search.js
 ---
 <div class="row">

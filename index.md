@@ -1,8 +1,8 @@
 ---
-layout: home-shape
+title: OP-TEE
+permalink: "/"
+layout: home
 ---
-<div class="container">
-<div class="row">
 
 <div class="col-md-6" markdown="1">
 
@@ -96,7 +96,6 @@ The ODP project has been established to produce an open-source, cross-platform s
 
     <hr>
     
-</div>
 </div>
 
 <div class="row alt-row">

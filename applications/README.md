@@ -2,7 +2,7 @@
 title: Applications
 description: |-
     Here you will find Applications that are designed to work with the OpenDataPlane Project.
-layout: default-plain
+layout: container-breadcrumb
 permalink: /applications/
 ---
 ## Applications
