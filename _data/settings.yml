@@ -88,7 +88,10 @@ blog:
                   
 #Google analytics
 google:
-    tag_manager: GTM-TDJ7LGH
+    analytics: UA-16756069-15
+    tag_manager: GTM-PNV8MXJ
+    
+    
 # Shema.org settings used in the schema.html include.
 schema:
     enabled: false
