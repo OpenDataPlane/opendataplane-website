@@ -1,7 +1,16 @@
-search: true
+# Navigation Configuration
+# - Add your navigation structure to this File
+# - Toggle brand image output
+# - Toggle Search Bar.
+# Search Config
+search:
+    enabled: true
+    label: OpenDataPlane
 brand:
     text: OpenDataPlane
-    image: /assets/images/ODP-Standard-Logo.png
+    image: 
+        enabled: true
+        name: ODP-Standard-Logo.png
     url: /
 pages:
     - title: Users
