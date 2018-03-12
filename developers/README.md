@@ -2,7 +2,7 @@
 title: Developers
 description: |-
     This section of the web site is designed to provide information and resources of interest to platform vendors who wish to provide an implementation of ODP on their platform. Here you’ll learn how ODP can enable you to compete for ODP applications by providing a tailored implementation that leverages the unique capabilities of your hardware to provide attractive price/performance targets for customers deploying ODP applications.
-layout: container-breadcrumb-tabs
+layout: container-breadcrumb-left-sidebar
 permalink: /developers/
 ---
 
@@ -17,7 +17,7 @@ The platform vendor’s problem is clear. You have unique hardware that offers p
 ODP solves this problem by defining a set of _abstract APIs_ that applications write to, and leaves it entirely up to each ODP implementation as to _how_ those APIs are realized on any given platform. This means that applications are not simply portable between platforms in a least-common-denominator way, but that the implementations of each ODP API can be optimized by the platform vendor however that vendor wishes. This can extend to platform model differences where certain APIs can be implemented in tuned software on one model while being able to exploit hardware features found on other models.  
 ODP’s value to the platform writer is best seen in the following packet flow diagram:
 
-![](/assets/images/packet_flow.svg){:.img-responsive}
+{% include image.html name="packet_flow.svg" alt="Packet Flow Diagram" class="lazyload" %}
 
 
 ODP applications consist of one or more _threads_ (shown in yellow above) that use the ODP framework to perform packet processing. Everything else shown here is provided automatically by the ODP framework for applications and _how_ these features are provided is entirely under the control of each implementation writer. From Receive (RX) to Transmit (TX), ODP provides a range of APIs that encompass every stage of a packet’s processing, and that are designed to enable platforms to showcase their value.
