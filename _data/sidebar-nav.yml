@@ -2,6 +2,9 @@ pages:
   -
     list:
       -
+        title: Developers Home
+        url: /developers/
+      -
         title: FAQ
         url: /application-writers/faq/index.html
       -
@@ -25,7 +28,7 @@ pages:
         title: Mailing List
         url: https://lists.linaro.org/mailman/listinfo/lng-odp
         external: true
-    urls: [/application-writers/]
+    urls: [/application-writers/, /application-writers/faq/, /api-documentation/master/api/, /application-writers/users-guide/, /commercial-support/, /developers/]
   -
     list:
       -
@@ -50,4 +53,10 @@ pages:
       -
         title: Bylaws
         url: /developers/bylaws/index.html
-    urls: [/developers/]
+    urls: [/developers/, /testing/, /api-documentation/, /developers/implementers-guide/, /developers/release-guide/, /developers/contributing/, /developers/bylaws/]
+    
+    
+    
+    
+    
+    
