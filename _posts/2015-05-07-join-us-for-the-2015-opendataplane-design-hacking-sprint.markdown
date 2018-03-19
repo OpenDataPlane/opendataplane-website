@@ -24,7 +24,10 @@ tags:
 - Opensource
 - SDN
 - Software Defined Networking
-featured_image: /images/posts/odp-thumb-MonarchRelease.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-MonarchRelease.jpg
+    name: odp-thumb-MonarchRelease.jpg
 ---
 
 Please join us for the week of June 15th through 19th, 2015 for the OpenDataPlane design & hacking sprint. The sprint will be held at Cavium headquarters in San Jose, California. If you wish to attend, please contact [Marshall Guillory](mailto:marshall.guillory@linaro.org) to register and reserve your space at the conference.

@@ -10,7 +10,10 @@ wordpress_id: 2804
 categories:
 - News Hub
 - Performance
-featured_image: /images/posts/odp-thumb-las16-accelerating-applications-ofpodp.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-las16-accelerating-applications-ofpodp.png
+    name: odp-thumb-las16-accelerating-applications-ofpodp.png
 ---
 
 At Linaro [Connect](http://connect.linaro.org/las16/) held recently in Las Vegas where it welcomed over 425 attendees a performance over view for ODP was given.

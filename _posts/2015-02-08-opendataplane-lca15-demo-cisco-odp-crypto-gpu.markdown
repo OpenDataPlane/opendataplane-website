@@ -19,7 +19,10 @@ tags:
 - ODP
 - OpenDataPlane
 - Software Defined Networking
-featured_image: /images/posts/odp-thumb-cisco-demo-pic.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-cisco-demo-pic.png
+    name: odp-thumb-cisco-demo-pic.png
 ---
 {% include image.html name="connectfooter.png" alt="Connect Footer Image" url="http://connect.linaro.org/hkg15/"%}
 

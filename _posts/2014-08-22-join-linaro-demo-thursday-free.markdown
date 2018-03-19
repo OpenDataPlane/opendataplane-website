@@ -16,7 +16,10 @@ tags:
 - Linaro
 - Linaro Connect
 - OpenDataPlane
-featured_image: /images/posts/odp-thumb-1.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-1.jpg
+    name: odp-thumb-1.jpg
 ---
 
 <blockquote markdown="1">
