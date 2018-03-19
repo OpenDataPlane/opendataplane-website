@@ -15,7 +15,7 @@ featured_image: /images/posts/odp-thumb-openssl-upto-20x-performance-improvement
 
 OpenSSL is an open source project that provides a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols, however it does not take advantage of SoC hardware acceleration.
 
-The creation of an ODP plugin POC found in [GIT](), shows what is possible.
+The creation of an ODP plugin POC found in [GIT](https://git.linaro.org/lng/ossl-odp.git), shows what is possible.
 
 {% include image.html name="image-10.png" alt="ODP with OpenSSL Image" %}
 
