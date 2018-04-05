@@ -11,9 +11,11 @@ layout: home-shape
 The ODP project has been established to produce an open-source, cross-platform set of application programming interfaces (APIs) for the networking data plane.
 
 <br/>
-<a href="https://git.linaro.org/lng/odp.git/blob_plain/HEAD:/doc/images/overview.svg">
+<!-- <a href="https://git.linaro.org/lng/odp.git/blob_plain/HEAD:/doc/images/overview.svg">
     <img src="/assets/images/odp-overview.png" alt="OpenDataPlane Overview" class="img-responsive"/>
-</a>
+</a> -->
+
+<img src="/assets/images/odp-overview.png" alt="OpenDataPlane Overview" class="img-responsive lazyload"/>
 
 </div>
 <div class="col-md-6">
