@@ -9,7 +9,10 @@ title: Compression support in OpenDataPlane(ODP) - BUD17-103
 wordpress_id: 2866
 categories:
 - News Hub
-featured_image: /images/posts/odp-thumb-compression-support-in-opendataplane.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-compression-support-in-opendataplane.jpg
+    name: odp-thumb-compression-support-in-opendataplane.jpg
 ---
 
 {% include media.html media_url="https://www.youtube.com/embed/aTOL0rGuIn8" %}

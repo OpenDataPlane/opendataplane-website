@@ -5,7 +5,7 @@ date: 2016-10-10 15:28:16+00:00
 layout: post
 link: https://www.opendataplane.org/news/las16-accelerating-applications-ofpodp/
 slug: las16-accelerating-applications-ofpodp
-title: 'LAS16: Accelerating applications with OFP+ODP'
+title: 'LAS16 &#58;	Accelerating applications with OFP+ODP'
 wordpress_id: 2804
 categories:
 - News Hub

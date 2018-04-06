@@ -5,8 +5,7 @@ date: 2017-01-20 16:59:47+00:00
 layout: post
 link: https://www.opendataplane.org/news/macsad-multi-architecture-compiler-system-abstract-dataplanes-aka-partnering-p4-odp/
 slug: macsad-multi-architecture-compiler-system-abstract-dataplanes-aka-partnering-p4-odp
-title: 'MACSAD: Multi-Architecture Compiler System for Abstract Dataplanes (aka Partnering
-  P4 with ODP)'
+title: 'MACSAD &#58; Multi-Architecture Compiler System for Abstract Dataplanes (aka PartneringP4 with ODP)'
 wordpress_id: 2850
 categories:
 - News Hub
