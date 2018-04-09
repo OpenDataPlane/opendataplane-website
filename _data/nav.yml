@@ -1,7 +1,16 @@
-search: true
+# Navigation Configuration
+# - Add your navigation structure to this File
+# - Toggle brand image output
+# - Toggle Search Bar.
+# Search Config
+search:
+    enabled: true
+    label: OpenDataPlane
 brand:
     text: OpenDataPlane
-    image: /assets/images/ODP-Standard-Logo.png
+    image: 
+        enabled: true
+        name: ODP-Standard-Logo.png
     url: /
 pages:
     - title: Users
@@ -9,14 +18,14 @@ pages:
             - text: Users Home
               url: /application-writers/
             - text: FAQ
-              url: /application-writers/faq/index.html
+              url: /application-writers/faq/
             - text: Git
               url: https://github.com/Linaro/odp/
               external: true
             - text: API
-              url: /api-documentation/master/api/index.html
+              url: /api-documentation/master/api/
             - text: User Guide
-              url: /application-writers/users-guide/index.html
+              url: /application-writers/users-guide/
             - text: Support
               url: /commercial-support/
             - text: Meeting
@@ -35,19 +44,19 @@ pages:
             - text: Testing
               url: /testing/
             - text: APIs
-              url: /api-documentation/index.html
+              url: /api-documentation/
             - text: Implementers Guide
-              url: /developers/implementers-guide/index.html
+              url: /developers/implementers-guide/
             - text: Release Guide
-              url: /developers/release-guide/index.html
+              url: /developers/release-guide/
             - text: Contributing
-              url: /developers/contributing/index.html
+              url: /developers/contributing/
             - text: Bylaws
-              url: /developers/bylaws/index.html
+              url: /developers/bylaws/
     - title: Status
       options:
           - text: Change Log
-            url: /developers/changelog/index.html
+            url: /developers/changelog/
           - text: Bugs
             url: /bugs/
           - text: Git Stats
@@ -74,7 +83,7 @@ pages:
       options:
           - text: About
             url: /about/
-          - text: News
-            url: /news/
+          - text: Blog
+            url: /blog/
           - text: Contact
             url: /contact/

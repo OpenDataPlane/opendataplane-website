@@ -22,7 +22,10 @@ tags:
 - reporting
 - reports
 - SFO15
-featured_image: /images/posts/odp-thumb-roadmapfeatured.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-roadmapfeatured.jpg
+    name: odp-thumb-roadmapfeatured.jpg
 ---
 
 There are now two interactive versions of the ODP Roadmap for 2015 Q3 and Q4 published to the [website](/roadmap/). The data for the roadmaps is imported from the OpenDataPlane project in Jira. It will be updated occasionally (2-3 times during a release cycle) and is NOT LIVE synchronized with JIRA. The tools are quite useful for visualizing feature delivery by versions and time. The _swimlane_ version of the roadmap displays only the _epics_ (agile - big stories) currently being worked on. The _timeline_ version includes all features (epics; stories not shown), initiatives (themes, mandate), and some important industry trade shows. Let us know what you think.

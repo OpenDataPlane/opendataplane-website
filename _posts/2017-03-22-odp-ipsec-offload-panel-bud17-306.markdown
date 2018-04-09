@@ -9,7 +9,10 @@ title: ODP IPsec offload panel - BUD17-306
 wordpress_id: 2881
 categories:
 - News Hub
-featured_image: /images/posts/odp-thumb-odp-ipsec-offload-panel.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-odp-ipsec-offload-panel.jpg
+    name: odp-thumb-odp-ipsec-offload-panel.jpg
 ---
 {% include media.html media_url="https://www.youtube.com/embed/EZXiHRU2uZM"%}
 

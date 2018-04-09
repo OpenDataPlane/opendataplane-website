@@ -2,9 +2,9 @@
 title: Application Writers
 description: |-
     Welcome to OpenDataPlane (ODP). This section of the web site is designed to provide information and resources of interest to data plane application writers. Here you’ll learn how to use ODP to create portable applications that take advantage of acceleration capabilities found in the diverse platforms that offer ODP implementations.
-layout: default-stacked
+layout: container-breadcrumb-left-sidebar
 permalink: /application-writers/
-specific_js: /assets/js/vendor/lightbox.min.js
+js-package: extended
 ---
 <div class="col-md-10" markdown="1">
 # Application writers Home Page

@@ -1,6 +1,6 @@
 ---
 title: Performance Numbers
-layout: default-plain
+layout: container-breadcrumb
 description: |-
     These are as is reports of testing as it happens that might be of interest to a wider audience, often they drive performance improvements.
 permalink: /performance/

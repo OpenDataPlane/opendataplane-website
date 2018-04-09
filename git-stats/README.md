@@ -2,7 +2,7 @@
 title: Git Stats
 description: |-
     The move to GitHub allows most tracking information to be available via its interface github.com/Linaro/odp/graphs/contributors
-layout: default-plain
+layout: container-breadcrumb
 permalink: /git-stats/
 ---
 ## Git Stats

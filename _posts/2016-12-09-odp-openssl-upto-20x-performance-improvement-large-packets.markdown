@@ -10,7 +10,10 @@ wordpress_id: 2822
 categories:
 - News Hub
 - Performance
-featured_image: /images/posts/odp-thumb-openssl-upto-20x-performance-improvement.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-openssl-upto-20x-performance-improvement.png
+    name: odp-thumb-openssl-upto-20x-performance-improvement.png
 ---
 
 OpenSSL is an open source project that provides a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols, however it does not take advantage of SoC hardware acceleration.

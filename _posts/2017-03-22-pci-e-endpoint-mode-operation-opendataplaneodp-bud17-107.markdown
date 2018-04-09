@@ -9,7 +9,10 @@ title: PCI-e EndPoint mode of operation in OpenDataPlane(ODP) - BUD17-107
 wordpress_id: 2870
 categories:
 - News Hub
-featured_image: /images/posts/odp-thumb-pcie-endpoint-mode-of-operation-in-opendataplane.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-pcie-endpoint-mode-of-operation-in-opendataplane.jpg
+    name: odp-thumb-pcie-endpoint-mode-of-operation-in-opendataplane.jpg
 ---
 {% include media.html media_url="https://www.youtube.com/embed/tQo7sbQbeI0" %}
 

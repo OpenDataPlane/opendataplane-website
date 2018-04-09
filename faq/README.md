@@ -1,6 +1,6 @@
 ---
 title: FAQ
-layout: default-plain
+layout: container-breadcrumb
 permalink: /faq/
 specific_js:
 - /assets/js/app/faq.js
