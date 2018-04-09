@@ -41,13 +41,11 @@ This webinar will outline how ODP abstracts implementation details from develope
 
 # Speaker Biographies
 
-[![BobMonkman.jpg](http://community.arm.com/servlet/JiveServlet/downloadImage/96891546-1136-12973/150-117/BobMonkman.jpg)](http://community.arm.com/servlet/JiveServlet/showImage/96891546-1136-12973/BobMonkman.jpg)
-
 [Bob Monkman](http://community.arm.com/people/bobmonkman) is part of the Enterprise Segment Marketing Team at ARM, located in San Jose, CA and focused on Enterprise Networking and Software Initiatives for the Enterprise Segment such as Linaro Networking Group, where Bob sits on the Steering Committee, the ETSI NFV ISG and the OPNFV initiative. Bob has been in embedded computing for 25+ years, much of it in the commercial RTOS/Middleware world focused on the network communications infrastructure space and did a stint in High Performance Clustered Computing. Bob's career roles have spanned largely Product Management/Marketing, Strategic Alliances, and Business Development, but he started his career as a hardware/software engineer for Tellabs. Bob’s technology experience includes embedded operating systems, incl. Linux, NFV/SDN, M2M/IoT, Systems Management Middleware strategy and development tools- now delving deeper into silicon designs. Bob was the Carrier-Grade Linux PM at MontaVista from 2003-2005, where he was active in the Service Availability Forum and Carrier Grade Linux Working Group. Bob holds a BSEE from the University of Illinois.
 
 
 
-[![](http://community.arm.com/servlet/JiveServlet/downloadImage/96891546-1136-13337/133-133/pastedImage_0.png)](http://community.arm.com/servlet/JiveServlet/showImage/96891546-1136-13337/pastedImage_0.png)Bill Fischofer Senior Software Engineer, Linaro Networking Group
+Bill Fischofer Senior Software Engineer, Linaro Networking Group
 
 Bill has over 25 years’ experience in the information technology sector, working on everything from IBM mainframe systems to ASICs. He joined the Linaro Networking Group in September 2013 after having worked for the previous decade at several public and private companies in network architecture and data plane firmware development. He is currently the LNG technical lead for the OpenDataPlane project.
 

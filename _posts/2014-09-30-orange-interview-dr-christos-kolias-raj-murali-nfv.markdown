@@ -50,12 +50,12 @@ Christos Kolias is a senior research scientist at Orange Silicon Valley (a s
 
 
 
-See related news about [Linaro Connect](http://www.linaro.org/connect/lcu/lcu14/) 2014 and Dr. Kolias
+See related news about [Linaro Connect](https://connect.linaro.org/lcu14/) 2014 and Dr. Kolias
 
 
 
 
-**[On Thursday 18th September](http://www.linaro.org/connect/lcu/lcu14/schedule/),** the [Linaro Networking Group (LNG)](https://wiki.linaro.org/LNG) is inviting people to attend a [day of sessions](http://www.linaro.org/connect/lcu/lcu14/schedule/lng/) focusing on accelerating the support of ARM within networking. Dr Christos Kolias, Senior Research Scientist at Orange kicks off the day with an address on Network Functions Virtualization (NFV), how this promises to change the service provider landscape and how it has emerged as one of today’s significant trends. Demos of the latest developments, including implementations of the OpenDataPlane (ODP) on hardware accelerated platforms will complement sessions on topics such as improving performance by keeping the kernel out of the way, LAVA and VLANs, and LTE EPC.
+**On Thursday 18th September,** the [Linaro Networking Group (LNG)](https://wiki.linaro.org/LNG) is inviting people to attend a day of sessions focusing on accelerating the support of ARM within networking. Dr Christos Kolias, Senior Research Scientist at Orange kicks off the day with an address on Network Functions Virtualization (NFV), how this promises to change the service provider landscape and how it has emerged as one of today’s significant trends. Demos of the latest developments, including implementations of the OpenDataPlane (ODP) on hardware accelerated platforms will complement sessions on topics such as improving performance by keeping the kernel out of the way, LAVA and VLANs, and LTE EPC.
 
 
 **Mr. Raj Murali - Director, Linaro Networking Group (LNG)**

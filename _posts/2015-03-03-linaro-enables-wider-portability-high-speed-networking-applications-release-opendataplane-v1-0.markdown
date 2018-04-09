@@ -42,7 +42,7 @@ image:
 
 Cambridge, UK; 3 March 2015
 
-Linaro Ltd, the collaborative engineering organization developing open source software for its member companies, today announced the release of [OpenDataPlane](http://opendataplane.org///) version 1.0.
+Linaro Ltd, the collaborative engineering organization developing open source software for its member companies, today announced the release of [OpenDataPlane](/) version 1.0.
 
 ODP is an open source, open contribution framework for portable, high performance data plane applications. Applications written to the ODP APIs can run on any ODP-enabled network compute platform, including System-on-Chip (SoC), general purpose processor (with or without additional network hardware acceleration) or Application Specific IC (ASIC) solutions. ODP-enabled platforms enjoy both portability and transparent access to any available hardware or software acceleration capabilities. In turn, platforms that support ODP can run any ODP application with a simple recompile. ODP implementations have been developed to support a variety of networking SoCs and processor architectures, including ARM, MIPS, Power Architecture, and x86.
 
@@ -52,7 +52,7 @@ LNG members anticipate that ODP will be a key building block in the realization 
 
 Included in this release is the definition of the ODP v1.0 APIs, an open source reference implementation of these APIs that can run on any Linux platform, as well as a validation suite that can be used by ODP implementations to verify that they conform to the ODP v1.0 API set. Additional implementations of ODP v1.0 targeting specific SoC platforms will be announced by their respective owners in the coming weeks.
 
-**For more information about ODP, to download a copy of version 1.0, or to become involved in the project, please visit [OpenDataPlane.org.](http://opendataplane.org///)**
+**For more information about ODP, to download a copy of version 1.0, or to become involved in the project, please visit [OpenDataPlane.org.](/)**
 
 **_Supporting Quotes_**
 

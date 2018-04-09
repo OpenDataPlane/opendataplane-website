@@ -21,8 +21,6 @@ tags:
 - Software Defined Networking
 ---
 
-{% include image.html name="ODPv1.4.0tag-151x300.png" alt="ODPv1.4.0tag" url="http://opendataplane.org///wp-content/uploads/2014/01/ODPv1.4.0tag.png" %}
-
 ## The OpenDataPlane team is pleased to announce the v.1.4.0.0 release of the OpenDataPlane API's.
 
 
