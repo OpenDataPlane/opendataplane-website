@@ -71,7 +71,7 @@ pktio types:
 <td rowspan="1" id="TD_42">Latest Stable Release</td>
 
 <td id="TD_43" markdown="1">
-[![Monarch RC2 v1.10.1.0](/assets/images/leaf.png)](https://github.com/Linaro/odp/releases/tag/v1.11.0.0_monarch)
+[![Tigermoth RC3 v1.18.0.1](/assets/images/leaf.png)](https://github.com/Linaro/odp/releases/tag/v1.18.0.1_tigermoth_rc3)
 </td>
 
 </tr>
