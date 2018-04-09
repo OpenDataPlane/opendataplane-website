@@ -23,7 +23,7 @@ layout: odp-home
             <div class="row">
                 <div class="col-md-3">
                     <a href="/about/">
-                        <img src="/assets/images/technical-overview.png" class="img-responsive" alt="OpenDataPlane Technical Overview Icon"/>
+                        <img src="{% asset_path  'technical-overview.png' %}" class="img-responsive" alt="OpenDataPlane Technical Overview Icon"/>
                     </a>
                 </div>
                 <div class="col-md-9">
@@ -39,10 +39,10 @@ layout: odp-home
             <div class="row">
                 <div class="col-md-3">
                     <a href="/about/">
-                        <img src="/assets/images/get-involved.png" class="img-responsive" alt="Get Involved with OpenDataPlane Icon"/>
+                        <img src="{% asset_path 'get-involved.png' %}" class="img-responsive" alt="Get Involved with OpenDataPlane Icon"/>
                     </a>
                     <a href="/mailing-list/">
-                        <img src="/assets/images/mailing-list.png" class="img-responsive" alt="Mailing List OpenDataPlane Icon"/>
+                        <img src="{% asset_path 'mailing-list.png' %}" class="img-responsive" alt="Mailing List OpenDataPlane Icon"/>
                     </a>
                 </div>
                 <div class="col-md-9">
@@ -69,7 +69,7 @@ layout: odp-home
                 <div class="row">   
                     <div class="col-xs-3">
                         <a href="https://www.opendataplane.org/odp-long-term-support-lts-release/">
-                            <img src="/assets/images/monarchs-odp.png" class="img-responsive center-block" alt="OpenDataPlane Stable Version Icon"/>
+                            <img src="{% asset_path 'monarchs-odp.png' %}" class="img-responsive center-block" alt="OpenDataPlane Stable Version Icon"/>
                         </a>
                     </div>
                     <div class="col-xs-9 text-center">
@@ -83,7 +83,7 @@ layout: odp-home
                     <div class="row">
                         <div class="col-xs-3">
                             <a href="https://www.opendataplane.org/odp-long-term-support-lts-release/">
-                                <img src="/assets/images/odp-contributing.png" class="img-responsive center-block" alt="Contribute to OpenDataPlane Icon"/>
+                                <img src="{% asset_path 'odp-contributing.png' %}" class="img-responsive center-block" alt="Contribute to OpenDataPlane Icon"/>
                             </a>
                         </div>
                         <div class="col-xs-9">
@@ -111,18 +111,10 @@ layout: odp-home
                     <a href="{{blog.url}}">
                         <div class="recent_post_image">
                             <img class="recent_post_image" src="
-                            {% if blog.featured_image %}
-                                {% if site.using_assets %}
-                                    {% asset_path '{{blog.featured_image}}' %}
-                                {% else %}
-                                    /assets{{blog.featured_image}}
-                                {% endif %}
+                            {% if blog.image.featured %}
+                                    {% asset_path '{{blog.image.name}}' %}
                             {% else %}
-                                {% if site.using_assets %}
                                     {% asset_path 'placeholder.png' %}
-                                {% else %}
-                                    /assets/images/placeholder.png
-                                {% endif %}
                             {% endif %}
                             "/>
                         </div>
