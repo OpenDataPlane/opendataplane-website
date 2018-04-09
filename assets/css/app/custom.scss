@@ -189,7 +189,6 @@ h3.recent_post_title {
 a.more-news-button {
     margin-left: auto;
     margin-right: auto;
-    /* position: static; */
     display: block;
     width: 100px;
     text-align: center;
@@ -200,6 +199,7 @@ a.more-news-button {
     border-radius: 3px;
     font-size: 14px;
     text-decoration: none;
+    margin-bottom: 40px;
 }
 a.more-news-button:hover {
     background-color: #d9ffea;
