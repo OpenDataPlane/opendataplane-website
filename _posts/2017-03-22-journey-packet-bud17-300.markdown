@@ -3,7 +3,7 @@ author: celia.ilardi
 comments: false
 date: 2017-03-22 14:19:53+00:00
 layout: post
-link: https://www.opendataplane.org/news/journey-packet-bud17-300/
+link: https://www.opendataplane.org/blog/journey-packet-bud17-300/
 slug: journey-packet-bud17-300
 title: Journey of a packet - BUD17-300
 wordpress_id: 2877

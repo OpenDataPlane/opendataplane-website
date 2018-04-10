@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-10-02 16:46:33+00:00
 layout: post
-link: https://www.opendataplane.org/news/amd-demonstrates-first-network-function-virtualization-solution-64-bit-amd-arm-technology/
+link: https://www.opendataplane.org/blog/amd-demonstrates-first-network-function-virtualization-solution-64-bit-amd-arm-technology/
 slug: amd-demonstrates-first-network-function-virtualization-solution-64-bit-amd-arm-technology
 title: AMD Demonstrates First Network Function Virtualization Solution on 64-bit AMD
   and ARM Technology

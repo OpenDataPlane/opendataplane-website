@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2016-02-11 14:32:59+00:00
 layout: post
-link: https://www.opendataplane.org/news/kalrays-konic-80-will-support-opendataplane-odp/
+link: https://www.opendataplane.org/blog/kalrays-konic-80-will-support-opendataplane-odp/
 slug: kalrays-konic-80-will-support-opendataplane-odp
 title: Kalray’s KONIC-80 will support OpenDataPlane (ODP)
 wordpress_id: 1966

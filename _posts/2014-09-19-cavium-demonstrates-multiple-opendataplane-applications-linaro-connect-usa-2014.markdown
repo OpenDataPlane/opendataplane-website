@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-09-19 18:43:35+00:00
 layout: post
-link: https://www.opendataplane.org/news/cavium-demonstrates-multiple-opendataplane-applications-linaro-connect-usa-2014/
+link: https://www.opendataplane.org/blog/cavium-demonstrates-multiple-opendataplane-applications-linaro-connect-usa-2014/
 slug: cavium-demonstrates-multiple-opendataplane-applications-linaro-connect-usa-2014
 title: Cavium Demonstrates Multiple OpenDataPlane Applications at Linaro Connect USA
   2014

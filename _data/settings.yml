@@ -3,11 +3,6 @@ search-label: OpenDataPlane
 name: OpenDataPlane
 slogan: Welcome to the OpenDataPlane Project
 
-# Breadcrumb Settings
-# breadcrumb:
-#     image: background-image.jpg
-
-
 #Content Repo for static site.
 # Used for the edit on github include
 edit-on-github:
@@ -28,7 +23,7 @@ tags_enabled: true
 
 # Members
 members:
-    key: devicetree_members
+    key: opendataplane_members
     excludes: [/contact/]
     
 # Footer Image default is linaro sprinkle
@@ -48,13 +43,13 @@ home:
         enabled: true
 
 # # Jekyll social media site settings. Github, LinkedIn, Google+, Facebook and Youtube
-github_username: op-tee
-# linkedin_username: 1026961
-# google_plus_username: +LinaroOnAir
-# facebook_username: LinaroOrg
-# youtube_username: linaroorg
-# twitter_username: linaroorg
-# slideshare_username: linaroorg
+github_username: Linaro
+linkedin_username: 1026961
+google_plus_username: +LinaroOnAir
+facebook_username: LinaroOrg
+youtube_username: UCAl2MfCBjH5y0nIym0ujHfg
+twitter_username: linaroorg
+slideshare_username: linaroorg
 
 # Blog setup
 blog:
@@ -89,14 +84,13 @@ blog:
 #Google analytics
 google:
     tag_manager: GTM-PNV8MXJ
-    
-    
+
 # Shema.org settings used in the schema.html include.
 schema:
-    enabled: false
+    enabled: true
     organisation:
         name: OpenDataPlane
-        url: https://www.op-tee.org
+        url: https://www.opendataplane.org
         address:
             street: Harston Mill, Royston Rd 
             town: Harston 
@@ -105,10 +99,9 @@ schema:
             country_code: UK
 
 # Disqus Comments
-
 disqus:
-    enabled: false
-    shortname: op-tee
+    enabled: true
+    shortname: opendataplane
 
 # Placeholder for Missing Images
 placeholder: placeholder.jpg

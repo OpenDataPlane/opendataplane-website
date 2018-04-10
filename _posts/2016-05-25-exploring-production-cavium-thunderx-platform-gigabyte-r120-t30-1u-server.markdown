@@ -3,7 +3,7 @@ author: shovan
 comments: false
 date: 2016-05-25 18:15:25+00:00
 layout: post
-link: https://www.opendataplane.org/news/exploring-production-cavium-thunderx-platform-gigabyte-r120-t30-1u-server/
+link: https://www.opendataplane.org/blog/exploring-production-cavium-thunderx-platform-gigabyte-r120-t30-1u-server/
 slug: exploring-production-cavium-thunderx-platform-gigabyte-r120-t30-1u-server
 title: EXPLORING A PRODUCTION CAVIUM THUNDERX PLATFORM WITH A GIGABYTE R120-T30 1U
   SERVER

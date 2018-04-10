@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-03-17 13:29:54+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-v1-0-1-released-to-the-repo/
+link: https://www.opendataplane.org/blog/odp-v1-0-1-released-to-the-repo/
 slug: odp-v1-0-1-released-to-the-repo
 title: ODP v1.0.1 Released to the repo!
 wordpress_id: 1506

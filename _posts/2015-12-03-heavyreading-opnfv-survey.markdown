@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-12-03 16:47:13+00:00
 layout: post
-link: https://www.opendataplane.org/news/heavyreading-opnfv-survey/
+link: https://www.opendataplane.org/blog/heavyreading-opnfv-survey/
 slug: heavyreading-opnfv-survey
 title: Heavy Reading OPNFV Survey Results - 61% say OpenDataPlane important!
 wordpress_id: 1854

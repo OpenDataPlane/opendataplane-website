@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-05-06 18:45:00+00:00
 layout: post
-link: https://www.opendataplane.org/news/the-emergence-of-the-opendataplane-standard/
+link: https://www.opendataplane.org/blog/the-emergence-of-the-opendataplane-standard/
 slug: the-emergence-of-the-opendataplane-standard
 title: The Emergence of the OpenDataPlane™ Standard
 wordpress_id: 1337

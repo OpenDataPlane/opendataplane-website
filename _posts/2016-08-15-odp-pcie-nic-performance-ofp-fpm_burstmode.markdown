@@ -3,7 +3,7 @@ author: mike.holmes
 comments: false
 date: 2016-08-15 17:05:36+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-pcie-nic-performance-ofp-fpm_burstmode/
+link: https://www.opendataplane.org/blog/odp-pcie-nic-performance-ofp-fpm_burstmode/
 slug: odp-pcie-nic-performance-ofp-fpm_burstmode
 title: ODP PCIe NIC Performance with OFP fpm_burstmode
 wordpress_id: 2498

@@ -3,7 +3,7 @@ author: celia.ilardi
 comments: false
 date: 2017-03-22 13:35:17+00:00
 layout: post
-link: https://www.opendataplane.org/news/compression-support-opendataplaneodp-bud17-103/
+link: https://www.opendataplane.org/blog/compression-support-opendataplaneodp-bud17-103/
 slug: compression-support-opendataplaneodp-bud17-103
 title: Compression support in OpenDataPlane(ODP) - BUD17-103
 wordpress_id: 2866

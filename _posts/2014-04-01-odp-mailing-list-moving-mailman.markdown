@@ -3,7 +3,7 @@ author: shovan
 comments: true
 date: 2014-04-01 15:41:21+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-mailing-list-moving-mailman/
+link: https://www.opendataplane.org/blog/odp-mailing-list-moving-mailman/
 slug: odp-mailing-list-moving-mailman
 title: The ODP mailing list is moving to mailman!
 wordpress_id: 425

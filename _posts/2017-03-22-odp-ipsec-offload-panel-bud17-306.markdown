@@ -3,7 +3,7 @@ author: celia.ilardi
 comments: false
 date: 2017-03-22 14:35:45+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-ipsec-offload-panel-bud17-306/
+link: https://www.opendataplane.org/blog/odp-ipsec-offload-panel-bud17-306/
 slug: odp-ipsec-offload-panel-bud17-306
 title: ODP IPsec offload panel - BUD17-306
 wordpress_id: 2881

@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-12-08 15:05:19+00:00
 layout: post
-link: https://www.opendataplane.org/news/927/
+link: https://www.opendataplane.org/blog/927/
 slug: '927'
 title: ODP v0.4 Pre-release published to the repo
 wordpress_id: 927

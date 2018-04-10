@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-02-27 17:06:33+00:00
 layout: post
-link: https://www.opendataplane.org/news/moor-insights-strategy-bringing-intelligence-cloud-edge/
+link: https://www.opendataplane.org/blog/moor-insights-strategy-bringing-intelligence-cloud-edge/
 slug: moor-insights-strategy-bringing-intelligence-cloud-edge
 title: 'Moor - Insights & Strategy: Bringing Intelligence to the Cloud Edge'
 wordpress_id: 1053

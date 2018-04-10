@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-08-14 18:32:02+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-roadmap-for-2015/
+link: https://www.opendataplane.org/blog/opendataplane-roadmap-for-2015/
 slug: opendataplane-roadmap-for-2015
 title: OpenDataPlane Roadmap for 2015
 wordpress_id: 1652

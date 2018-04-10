@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-09-30 13:51:58+00:00
 layout: post
-link: https://www.opendataplane.org/news/linaro-odl-controlling-odp-open-vswitch/
+link: https://www.opendataplane.org/blog/linaro-odl-controlling-odp-open-vswitch/
 slug: linaro-odl-controlling-odp-open-vswitch
 title: 'Linaro: ODL controlling: ODP-Open vSwitch'
 wordpress_id: 711
