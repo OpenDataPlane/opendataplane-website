@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-01-09 15:43:06+00:00
 layout: post
-link: https://www.opendataplane.org/news/952/
+link: https://www.opendataplane.org/blog/952/
 slug: '952'
 title: ODP v0.7 Pre-release published to the repo
 wordpress_id: 952

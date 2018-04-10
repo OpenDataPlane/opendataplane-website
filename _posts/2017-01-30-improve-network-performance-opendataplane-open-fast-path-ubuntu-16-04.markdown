@@ -3,7 +3,7 @@ author: mike.holmes
 comments: false
 date: 2017-01-30 19:43:18+00:00
 layout: post
-link: https://www.opendataplane.org/news/improve-network-performance-opendataplane-open-fast-path-ubuntu-16-04/
+link: https://www.opendataplane.org/blog/improve-network-performance-opendataplane-open-fast-path-ubuntu-16-04/
 slug: improve-network-performance-opendataplane-open-fast-path-ubuntu-16-04
 title: Improve Network Performance with openDataplane and Open Fast Path on Ubuntu 16.04
 wordpress_id: 2856

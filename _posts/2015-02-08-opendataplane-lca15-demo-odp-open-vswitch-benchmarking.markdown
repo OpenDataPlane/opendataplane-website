@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-02-08 17:50:48+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-lca15-demo-odp-open-vswitch-benchmarking/
+link: https://www.opendataplane.org/blog/opendataplane-lca15-demo-odp-open-vswitch-benchmarking/
 slug: opendataplane-lca15-demo-odp-open-vswitch-benchmarking
 title: 'OpenDataPlane LCA15 Demo: ODP-Open vSwitch Benchmarking'
 wordpress_id: 966

@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-08-21 16:58:39+00:00
 layout: post
-link: https://www.opendataplane.org/news/linaro-connect-usa-2014-join-odp-community-lcu14-september/
+link: https://www.opendataplane.org/blog/linaro-connect-usa-2014-join-odp-community-lcu14-september/
 slug: linaro-connect-usa-2014-join-odp-community-lcu14-september
 title: Linaro Connect USA 2014 - Join the ODP community at LCU14 in September!
 wordpress_id: 628

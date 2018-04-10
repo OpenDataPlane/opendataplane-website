@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-03-09 14:20:57+00:00
 layout: post
-link: https://www.opendataplane.org/news/telecomlead-mwc-2015-cavium-adds-octeon-fusion-m-single-chip/
+link: https://www.opendataplane.org/blog/telecomlead-mwc-2015-cavium-adds-octeon-fusion-m-single-chip/
 slug: telecomlead-mwc-2015-cavium-adds-octeon-fusion-m-single-chip
 title: 'Telecom Lead - MWC 2015: Cavium adds OCTEON Fusion-M single chip'
 wordpress_id: 1078

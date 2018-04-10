@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-09-10 14:07:06+00:00
 layout: post
-link: https://www.opendataplane.org/news/lng-demo-thursday-lcu14/
+link: https://www.opendataplane.org/blog/lng-demo-thursday-lcu14/
 slug: lng-demo-thursday-lcu14
 title: LNG DEMO Thursday at LCU14
 wordpress_id: 664

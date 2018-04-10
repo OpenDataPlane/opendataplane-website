@@ -3,7 +3,7 @@ author: bill.fischofer
 comments: false
 date: 2013-10-29 12:24:01+00:00
 layout: post
-link: https://www.opendataplane.org/news/linaro-launches-opendataplane/
+link: https://www.opendataplane.org/blog/linaro-launches-opendataplane/
 slug: linaro-launches-opendataplane
 title: Linaro launches OpenDataPlane (ODP)
 wordpress_id: 308

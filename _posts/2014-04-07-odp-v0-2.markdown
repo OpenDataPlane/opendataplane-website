@@ -3,7 +3,7 @@ author: shovan
 comments: true
 date: 2014-04-07 14:57:04+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-v0-2/
+link: https://www.opendataplane.org/blog/odp-v0-2/
 slug: odp-v0-2
 title: LNG releases ODP v0.2
 wordpress_id: 437

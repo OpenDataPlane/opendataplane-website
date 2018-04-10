@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-09-24 18:59:53+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-demos-at-linaro-connect-sfo15/
+link: https://www.opendataplane.org/blog/opendataplane-demos-at-linaro-connect-sfo15/
 slug: opendataplane-demos-at-linaro-connect-sfo15
 title: OpenDataPlane demos at Linaro Connect SFO15
 wordpress_id: 1688

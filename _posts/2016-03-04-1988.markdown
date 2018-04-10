@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2016-03-04 04:59:35+00:00
 layout: post
-link: https://www.opendataplane.org/news/1988/
+link: https://www.opendataplane.org/blog/1988/
 slug: '1988'
 title: OpenDataPlane Monarch RC1 v1.8.0.0 published to the repo!
 wordpress_id: 1988

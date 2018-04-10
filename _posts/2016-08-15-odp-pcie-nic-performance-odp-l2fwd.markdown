@@ -3,7 +3,7 @@ author: mike.holmes
 comments: false
 date: 2016-08-15 17:42:59+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-pcie-nic-performance-odp-l2fwd/
+link: https://www.opendataplane.org/blog/odp-pcie-nic-performance-odp-l2fwd/
 slug: odp-pcie-nic-performance-odp-l2fwd
 title: ODP PCIe NIC Performance with ODP l2fwd
 wordpress_id: 2532

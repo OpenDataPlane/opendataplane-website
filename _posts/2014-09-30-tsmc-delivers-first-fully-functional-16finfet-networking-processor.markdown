@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-09-30 15:37:19+00:00
 layout: post
-link: https://www.opendataplane.org/news/tsmc-delivers-first-fully-functional-16finfet-networking-processor/
+link: https://www.opendataplane.org/blog/tsmc-delivers-first-fully-functional-16finfet-networking-processor/
 slug: tsmc-delivers-first-fully-functional-16finfet-networking-processor
 title: TSMC Delivers First Fully Functional 16FinFET Networking Processor
 wordpress_id: 726

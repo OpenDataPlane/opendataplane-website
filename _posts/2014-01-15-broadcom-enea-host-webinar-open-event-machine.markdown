@@ -3,7 +3,7 @@ author: bill.fischofer
 comments: false
 date: 2014-01-15 14:14:38+00:00
 layout: post
-link: https://www.opendataplane.org/news/broadcom-enea-host-webinar-open-event-machine/
+link: https://www.opendataplane.org/blog/broadcom-enea-host-webinar-open-event-machine/
 slug: broadcom-enea-host-webinar-open-event-machine
 title: Broadcom and ENEA to host webinar on Open Event Machine
 wordpress_id: 404

@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-12-14 13:21:49+00:00
 layout: post
-link: https://www.opendataplane.org/news/historical-context-checksum-offloads-and-protocol-ossification/
+link: https://www.opendataplane.org/blog/historical-context-checksum-offloads-and-protocol-ossification/
 slug: historical-context-checksum-offloads-and-protocol-ossification
 title: 'Historical Context &#58; Checksum offloads and protocol ossification'
 wordpress_id: 1895

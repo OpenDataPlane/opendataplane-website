@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-05-07 19:49:22+00:00
 layout: post
-link: https://www.opendataplane.org/news/join-us-for-the-2015-opendataplane-design-hacking-sprint/
+link: https://www.opendataplane.org/blog/join-us-for-the-2015-opendataplane-design-hacking-sprint/
 slug: join-us-for-the-2015-opendataplane-design-hacking-sprint
 title: Join us for the 2015 OpenDataPlane Design & Hacking Sprint
 wordpress_id: 1346

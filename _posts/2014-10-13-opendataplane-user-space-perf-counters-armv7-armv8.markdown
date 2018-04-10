@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-10-13 15:05:44+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-user-space-perf-counters-armv7-armv8/
+link: https://www.opendataplane.org/blog/opendataplane-user-space-perf-counters-armv7-armv8/
 slug: opendataplane-user-space-perf-counters-armv7-armv8
 title: 'OpenDataPlane: User space perf counters, ARMv7 and ARMv8'
 wordpress_id: 851

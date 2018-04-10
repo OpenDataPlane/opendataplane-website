@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-08-22 16:54:14+00:00
 layout: post
-link: https://www.opendataplane.org/news/join-linaro-demo-thursday-free/
+link: https://www.opendataplane.org/blog/join-linaro-demo-thursday-free/
 slug: join-linaro-demo-thursday-free
 title: Join Linaro on Demo Thursday - FREE
 wordpress_id: 638

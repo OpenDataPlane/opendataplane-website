@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-03-02 14:11:00+00:00
 layout: post
-link: https://www.opendataplane.org/news/cavium-breaks-100gbps-ipsec-throughput-barrier-using-opendataplane-mobile-world-congress-2015/
+link: https://www.opendataplane.org/blog/cavium-breaks-100gbps-ipsec-throughput-barrier-using-opendataplane-mobile-world-congress-2015/
 slug: cavium-breaks-100gbps-ipsec-throughput-barrier-using-opendataplane-mobile-world-congress-2015
 title: Cavium Breaks 100Gbps IPsec Throughput Barrier using OpenDataPlane™ at Mobile
   World Congress 2015

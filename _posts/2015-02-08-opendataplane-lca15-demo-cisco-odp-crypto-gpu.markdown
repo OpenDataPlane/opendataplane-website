@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-02-08 15:10:46+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-lca15-demo-cisco-odp-crypto-gpu/
+link: https://www.opendataplane.org/blog/opendataplane-lca15-demo-cisco-odp-crypto-gpu/
 slug: opendataplane-lca15-demo-cisco-odp-crypto-gpu
 title: 'OpenDataPlane LCA15 Demo: Cisco ODP Crypto with GPU'
 wordpress_id: 1007

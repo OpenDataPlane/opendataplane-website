@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-10-02 15:00:39+00:00
 layout: post
-link: https://www.opendataplane.org/news/initial-ovs-odp-dpdk-performance-to-native-sdk-overhead-comparison/
+link: https://www.opendataplane.org/blog/initial-ovs-odp-dpdk-performance-to-native-sdk-overhead-comparison/
 slug: initial-ovs-odp-dpdk-performance-to-native-sdk-overhead-comparison
 title: Initial OVS ODP-DPDK Performance to Native SDK Overhead Comparison
 wordpress_id: 1713

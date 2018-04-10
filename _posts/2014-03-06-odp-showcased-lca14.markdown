@@ -3,7 +3,7 @@ author: shovan
 comments: false
 date: 2014-03-06 02:11:52+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-showcased-lca14/
+link: https://www.opendataplane.org/blog/odp-showcased-lca14/
 slug: odp-showcased-lca14
 title: OpenDataPlane Project Showcased at Linaro Connect Asia 2014
 wordpress_id: 408
