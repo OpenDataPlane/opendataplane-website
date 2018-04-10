@@ -2,7 +2,7 @@
 title: ODP Hello World
 description: |-
     The odp hello world git repository aims to make it as simple as possible to build and run ODP applications.
-layout: default-plain
+layout: container-breadcrumb
 permalink: /hello-world/
 specific_css: /assets/css/syntax.css
 ---

@@ -26,7 +26,10 @@ tags:
 - release
 - SDN
 - Software Defined Networking
-featured_image: /images/posts/odp-thumb-ODPv1.0_logo6.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-ODPv1.0_logo6.jpg
+    name: odp-thumb-ODPv1.0_logo6.jpg
 ---
 
 {% include image.html name="ODPv1.0_logo6.jpg" alt="ODPv1.0_logo6" %}

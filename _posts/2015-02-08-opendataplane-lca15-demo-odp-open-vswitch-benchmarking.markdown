@@ -20,7 +20,10 @@ tags:
 - OpenDataPlane
 - OpenVSwitch
 - Software Defined Networking
-featured_image: /images/posts/odp-thumb-connect-footer.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-connect-footer.png
+    name: odp-thumb-connect-footer.png
 ---
 {% include image.html name="connectfooter.png" alt="Connect Footer Image" url="http://connect.linaro.org/hkg15/"%}
 

@@ -5,7 +5,7 @@ date: 2015-12-15 12:09:22+00:00
 layout: post
 link: https://www.opendataplane.org/news/the-register-nokia-arm-twisting-intel-bid-to-reinvent-the-tcpip-stack-for-a-5g-era/
 slug: the-register-nokia-arm-twisting-intel-bid-to-reinvent-the-tcpip-stack-for-a-5g-era
-title: 'The Register: Nokia, ARM, twisting Intel bid to reinvent the TCP/IP stack
+title: 'The Register &#58; Nokia, ARM, twisting Intel bid to reinvent the TCP/IP stack
   for a 5G era'
 wordpress_id: 1905
 categories:

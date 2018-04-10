@@ -2,7 +2,7 @@
 title: About
 description: |-
     The OpenDataPlane project has been established to produce an open-source, cross-platform set of application programming interfaces (APIs) for the networking data plane. ODP embraces and extends existing proprietary, optimized vendor-specific hardware blocks and software libraries to provide interoperability with minimal overhead.
-layout: default-plain
+layout: container-breadcrumb
 permalink: /about/
 ---
 ## About

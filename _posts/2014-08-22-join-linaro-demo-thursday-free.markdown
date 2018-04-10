@@ -5,7 +5,7 @@ date: 2014-08-22 16:54:14+00:00
 layout: post
 link: https://www.opendataplane.org/news/join-linaro-demo-thursday-free/
 slug: join-linaro-demo-thursday-free
-title: Join Linaro on Demo Thursday - FREE!
+title: Join Linaro on Demo Thursday - FREE
 wordpress_id: 638
 categories:
 - News Hub
@@ -16,10 +16,14 @@ tags:
 - Linaro
 - Linaro Connect
 - OpenDataPlane
-featured_image: /images/posts/odp-thumb-1.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-1.jpg
+    name: odp-thumb-1.jpg
 ---
 
 <blockquote markdown="1">
+
 Dear Community Friends,
 
 I received confirmation this morning from Linaro Connect (LCU14) organizers that registering for LCU14 using the code: "DEMO-THUR" will allow participants to join us at Connect on Thursday September 18th for demos and some sessions - at no charge! (In order to offer this for free, participants using this code will be on their own for lunch and will not receive any Linaro Connect materials.)

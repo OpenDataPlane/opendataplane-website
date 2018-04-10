@@ -2,7 +2,7 @@
 title: Bugs
 description: |-
     ODP consists of an API specification and a set of reference implementations that realize these APIs on different platforms. Implementations range from pure software to those that deeply exploit the various hardware acceleration and offload features found on modern networking SoCs.
-layout: default-plain
+layout: container-breadcrumb
 permalink: /bugs/
 ---
 

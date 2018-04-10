@@ -24,7 +24,10 @@ tags:
 - release
 - SDN
 - Software Defined Networking
-featured_image: /images/posts/odp-thumb-ODPv1.1.04.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-ODPv1.1.04.png
+    name: odp-thumb-ODPv1.1.04.png
 ---
 
 {% include image.html name="ODPv1.0.4tag.png" alt="ODPv1.0.4tag Image" url="https://git.linaro.org/lng/odp.git/tag/?h=v1.0.4"%}

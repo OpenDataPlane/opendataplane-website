@@ -1,6 +1,6 @@
 ---
 title: Meetings
-layout: default-plain
+layout: container-breadcrumb
 description: |-
     ODP is supported by many vendors who provide implementations of the ODP API, to ensure a stable platform for application developers long term supoort releases are designated. These releases pass the ODP validation suite on all conforming implementations allowing simple portability between platforms.
 permalink: /meetings/

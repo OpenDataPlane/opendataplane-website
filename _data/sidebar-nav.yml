@@ -2,18 +2,21 @@ pages:
   -
     list:
       -
+        title: Developers Home
+        url: /developers/
+      -
         title: FAQ
-        url: /application-writers/faq/index.html
+        url: /application-writers/faq/
       -
         title: Git
         url: https://github.com/Linaro/odp/
         external: true
       -
         title: API
-        url: /api-documentation/master/api/index.html
+        url: /api-documentation/master/api/
       -
         title: User Guide
-        url: /application-writers/users-guide/index.html
+        url: /application-writers/users-guide/
       -
         title: Support
         url: /commercial-support/
@@ -25,7 +28,7 @@ pages:
         title: Mailing List
         url: https://lists.linaro.org/mailman/listinfo/lng-odp
         external: true
-    urls: [/application-writers/]
+    urls: [/application-writers/, /application-writers/faq/, /api-documentation/master/api/, /application-writers/users-guide/, /commercial-support/, /developers/]
   -
     list:
       -
@@ -37,17 +40,23 @@ pages:
         url: /testing/
       -
         title: APIs
-        url: /api-documentation/index.html
+        url: /api-documentation/
       -
         title: Implementers Guide
-        url: /developers/implementers-guide/index.html
+        url: /developers/implementers-guide/
       -
         title: Release Guide
-        url: /developers/release-guide/index.html
+        url: /developers/release-guide/
       -
         title: Contributing
-        url: /developers/contributing/index.html
+        url: /developers/contributing/
       -
         title: Bylaws
-        url: /developers/bylaws/index.html
-    urls: [/developers/]
+        url: /developers/bylaws/
+    urls: [/developers/, /testing/, /api-documentation/, /developers/implementers-guide/, /developers/release-guide/, /developers/contributing/, /developers/bylaws/]
+    
+    
+    
+    
+    
+    

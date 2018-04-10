@@ -9,7 +9,10 @@ title: Linaro Announces First LTS Monarch Release of OpenDataPlane
 wordpress_id: 2579
 categories:
 - News Hub
-featured_image: /images/posts/odp-thumb-odp-release.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-odp-release.png
+    name: odp-thumb-odp-release.png
 ---
 
 Linaro Ltd, the collaborative engineering organization developing open-source software for its member companies, today announced the availability of the first Long Term Support (LTS) Monarch release of OpenDataPlane®. The OpenDataPlane project is an open-source, cross-platform set of application programming interfaces (APIs) for the networking Software Defined Data Plane.The code released is production ready and has been demonstrated by Linaro Networking group (LNG) members and their partners.

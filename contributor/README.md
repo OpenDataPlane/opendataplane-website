@@ -2,7 +2,7 @@
 title: Become a Contributor
 description: |-
     Are you interested in becoming a contributor to the OpenDataPlane project? Great! Please see the detailed information below located in the ODP GIT repository to get started. Additionally, please read [this](http://opendataplane.org///documentation/contributing-to-odp/) information [page](http://opendataplane.org///documentation/contributing-to-odp/).
-layout: default-plain
+layout: container-breadcrumb
 permalink: /contributor/
 ---
 ## Contributor

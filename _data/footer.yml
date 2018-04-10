@@ -1,4 +1,4 @@
-image: /assets/images/odp-vertical-logo.png
+image: odp-vertical-logo.png
 columns:
 
     - title: Users
@@ -62,8 +62,8 @@ columns:
     - title: About
       url: /about/
       items:
-        - text: News
-          url : /news/
+        - text: Blog
+          url : /blog/
         - text: Contact
           url : /contact/
 

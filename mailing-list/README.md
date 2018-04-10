@@ -1,6 +1,6 @@
 ---
 title: Mailing List
-layout: default-plain
+layout: container-breadcrumb
 permalink: /mailing-list/
 ---
 ### ODP-API and the linux-generic model implementation
