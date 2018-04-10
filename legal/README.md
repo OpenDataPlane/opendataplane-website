@@ -3,7 +3,6 @@ title: Legal
 permalink: "/legal/"
 layout: container-breadcrumb
 ---
-{% include sticky-tab-bar.html %}
 <div class="tabbed-area"><!-- Nav tabs -->
 <ul class="nav nav-pills tabbed-nav" id="tab-row" role="tablist" id="tabbed_nav">
 	<li class="active"><a  href="#1a" data-toggle="tab">Terms & Conditions</a></li>
