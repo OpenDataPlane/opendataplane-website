@@ -47,11 +47,9 @@ github_username: Linaro
 linkedin_username: 1026961
 google_plus_username: +LinaroOnAir
 facebook_username: LinaroOrg
-youtube_username: linaroorg
+youtube_username: UCAl2MfCBjH5y0nIym0ujHfg
 twitter_username: linaroorg
 slideshare_username: linaroorg
-
-social-media: false
 
 # Blog setup
 blog:
@@ -92,7 +90,7 @@ schema:
     enabled: true
     organisation:
         name: OpenDataPlane
-        url: https://www.opendataplaneorg
+        url: https://www.opendataplane.org
         address:
             street: Harston Mill, Royston Rd 
             town: Harston 
@@ -102,7 +100,7 @@ schema:
 
 # Disqus Comments
 disqus:
-    enabled: false
+    enabled: true
     shortname: opendataplane
 
 # Placeholder for Missing Images
