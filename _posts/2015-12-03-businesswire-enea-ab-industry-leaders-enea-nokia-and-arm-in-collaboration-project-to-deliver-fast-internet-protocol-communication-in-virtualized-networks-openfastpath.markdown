@@ -30,7 +30,7 @@ tags:
 - Software Defined Networking
 ---
 
-Originally published by Business Wire [here](http://www.businesswire.com/blog/home/20151203005797/en/Enea-AB-Industry-Leaders-Enea-Nokia-ARM).
+Originally published by Business Wire [here](http://www.businesswire.com/news/home/20151203005797/en/Enea-AB-Industry-Leaders-Enea-Nokia-ARM).
 
 <blockquote markdown="1">
 Open Fast Path project provides first open source fast path TCP/IP stack in user space to foster software evolution and performance acceleration
@@ -41,7 +41,7 @@ STOCKHOLM--([BUSINESS WIRE](http://www.businesswire.com/))--Regulatory News:
 
 “But we also complement the OFP mission in a very hands-on way, through tailored services, or as packaged open source software and services delivered as a product.”
 
-[Tweet this](http://www.businesswire.com/blog/home/20151203005797/en/Enea-AB-Industry-Leaders-Enea-Nokia-ARM#)
+[Tweet this](http://www.businesswire.com/news/home/20151203005797/en/Enea-AB-Industry-Leaders-Enea-Nokia-ARM#)
 </blockquote>
 
 Enea AB (STO:ENEA)

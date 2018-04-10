@@ -43,6 +43,6 @@ Cavium has been a Linaro member since 2012 when it joined the Linaro Enterprise 
 **Linaro**
 Linaro is a not-for-profit engineering organization with over 180 engineers working on consolidating and optimizing open source software for the ARM architecture, including developer tools, the Linux kernel, ARM power management, and other software infrastructure. Linaro is distribution neutral: it wants to provide the best software foundations to everyone, and to reduce non-differentiating and costly low level fragmentation.
 
-To ensure commercial grade software, Linaro executes comprehensive test and validation on member hardware platforms. The full scope of Linaro's engineering work is open to all online. To find out more, please visit [http://www.linaro.org](http://www.linaro.org/).
+To ensure commercial grade software, Linaro executes comprehensive test and validation on member hardware platforms. The full scope of Linaro's engineering work is open to all online. To find out more, please visit [http://www.linaro.org](https://www.linaro.org/).
 
 Original news post:[ http://www.cavium.com/Cavium-Breaks-100Gbps-IPsec-Throughput-Barrier-Using-OpenDataPlane-At-Mobile-World-Congress-2015.html](http://www.cavium.com/Cavium-Breaks-100Gbps-IPsec-Throughput-Barrier-Using-OpenDataPlane-At-Mobile-World-Congress-2015.html)
