@@ -3,14 +3,6 @@ title: Legal
 permalink: "/legal/"
 layout: container-breadcrumb
 ---
-<div class="tabbed-area"><!-- Nav tabs -->
-<ul class="nav nav-pills tabbed-nav" id="tab-row" role="tablist" id="tabbed_nav">
-	<li class="active"><a  href="#1a" data-toggle="tab">Terms & Conditions</a></li>
-	<li><a href="#2a" data-toggle="tab">Privacy Policy</a></li>
-	<li><a href="#3a" data-toggle="tab">Trademark Usage</a></li>
-</ul>
-<div class="tab-content clearfix" id="tabbed_nav_content">
-<div class="tab-pane tab-pane-legal active" id="1a" markdown="1">
 ## Information about the Linaro opendataplane.org Website
 
 Please refer to: [https://www.opendataplane.org/about/](https://www.opendataplane.org/about/)
@@ -85,8 +77,6 @@ Where the Website contains links to other sites and resources provided by third 
 
 LEC-ELA-30989-V0.91, 10 April 2015\. Copyright (c) 2015 Linaro Limited
 
-</div>
-<div class="tab-pane tab-pane-legal" id="2a" markdown="1">
 As an organization Linaro Limited is committed to fairness, both in the collection and use of personal information. Fairness has two elements:
 
 Using information in a way that people would reasonably expect and in a way that is fair;
@@ -201,8 +191,6 @@ Thank you for visiting Our site.
 
 LEC-ELA-30990-V0.91, 10 April 2015, Copyright (c) 2015 Linaro Limited
 
-</div>
-<div class="tab-pane tab-pane-legal" id="3a" markdown="1">
 Linaro® is a registered trademark of Linaro in the United Kingdom and other countries
 
 Linaro has applied to have ‘96 Boards’ registered as a trademark in the UK, US and other countries.
@@ -214,9 +202,3 @@ All other trademarks are the property of their respective owners.
 The objectives of the Linaro company trademark policy are to: encourage widespread use of the Linaro trademarks by the Linaro™ community while controlling that use in order to avoid confusion on the part of Linaro users and the general public; to maintain the value of the image and reputation of the trademarks and to protect them from inappropriate or unauthorized use.
 
 The Trademark policy and guidelines provide information on what is allowed, what isn’t allowed, and cases in which you should ask permission. If you have any doubt, please contact us at trademarks@linaro.org and a member of our trademark team will be in touch with you shortly.
-
-
-</div>
-	  </div>
-
-    </div>
