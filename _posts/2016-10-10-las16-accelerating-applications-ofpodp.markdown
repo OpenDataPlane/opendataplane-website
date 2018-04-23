@@ -3,14 +3,17 @@ author: mike.holmes
 comments: false
 date: 2016-10-10 15:28:16+00:00
 layout: post
-link: https://www.opendataplane.org/news/las16-accelerating-applications-ofpodp/
+link: https://www.opendataplane.org/blog/las16-accelerating-applications-ofpodp/
 slug: las16-accelerating-applications-ofpodp
-title: 'LAS16: Accelerating applications with OFP+ODP'
+title: 'LAS16 &#58;	Accelerating applications with OFP+ODP'
 wordpress_id: 2804
 categories:
 - News Hub
 - Performance
-featured_image: /images/posts/odp-thumb-las16-accelerating-applications-ofpodp.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-las16-accelerating-applications-ofpodp.png
+    name: odp-thumb-las16-accelerating-applications-ofpodp.png
 ---
 
 At Linaro [Connect](http://connect.linaro.org/las16/) held recently in Las Vegas where it welcomed over 425 attendees a performance over view for ODP was given.

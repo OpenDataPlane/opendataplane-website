@@ -3,11 +3,9 @@ author: marshall.guillory
 comments: false
 date: 2015-12-03 16:02:21+00:00
 layout: post
-link: https://www.opendataplane.org/news/businesswire-enea-ab-industry-leaders-enea-nokia-and-arm-in-collaboration-project-to-deliver-fast-internet-protocol-communication-in-virtualized-networks-openfastpath/
+link: https://www.opendataplane.org/blog/businesswire-enea-ab-industry-leaders-enea-nokia-and-arm-in-collaboration-project-to-deliver-fast-internet-protocol-communication-in-virtualized-networks-openfastpath/
 slug: businesswire-enea-ab-industry-leaders-enea-nokia-and-arm-in-collaboration-project-to-deliver-fast-internet-protocol-communication-in-virtualized-networks-openfastpath
-title: 'Businesswire - Enea AB: Industry Leaders Enea, Nokia and ARM in Collaboration
-  Project to Deliver Fast Internet Protocol Communication in Virtualized Networks
-  (OpenFastPath)'
+title: 'Businesswire - Enea AB &#58; Industry Leaders Enea, Nokia and ARM in Collaboration Project to Deliver Fast Internet Protocol Communication in Virtualized Networks (OpenFastPath)'
 wordpress_id: 1850
 categories:
 - News Hub

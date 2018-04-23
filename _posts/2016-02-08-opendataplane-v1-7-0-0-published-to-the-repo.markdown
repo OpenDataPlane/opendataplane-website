@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2016-02-08 15:50:14+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-v1-7-0-0-published-to-the-repo/
+link: https://www.opendataplane.org/blog/opendataplane-v1-7-0-0-published-to-the-repo/
 slug: opendataplane-v1-7-0-0-published-to-the-repo
 title: OpenDataPlane v1.7.0.0 published to the repo!
 wordpress_id: 1960

@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-02-08 17:50:48+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-lca15-demo-odp-open-vswitch-benchmarking/
+link: https://www.opendataplane.org/blog/opendataplane-lca15-demo-odp-open-vswitch-benchmarking/
 slug: opendataplane-lca15-demo-odp-open-vswitch-benchmarking
 title: 'OpenDataPlane LCA15 Demo: ODP-Open vSwitch Benchmarking'
 wordpress_id: 966
@@ -20,7 +20,10 @@ tags:
 - OpenDataPlane
 - OpenVSwitch
 - Software Defined Networking
-featured_image: /images/posts/odp-thumb-connect-footer.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-connect-footer.png
+    name: odp-thumb-connect-footer.png
 ---
 {% include image.html name="connectfooter.png" alt="Connect Footer Image" url="http://connect.linaro.org/hkg15/"%}
 

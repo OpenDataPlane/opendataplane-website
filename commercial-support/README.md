@@ -2,7 +2,7 @@
 title: Commercial Support
 description: |-
     ODP commercial support is available for the applications and implementations available in the echo system. Listed here are some vendors with close ties to the ODP development cycle.
-layout: default-plain
+layout: container-breadcrumb
 permalink: /commercial-support/
 ---
 # ODP commercial support

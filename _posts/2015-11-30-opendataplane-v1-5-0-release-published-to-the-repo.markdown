@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-11-30 08:00:09+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-v1-5-0-release-published-to-the-repo/
+link: https://www.opendataplane.org/blog/opendataplane-v1-5-0-release-published-to-the-repo/
 slug: opendataplane-v1-5-0-release-published-to-the-repo
 title: OpenDataPlane v1.5.0 Release published to the repo!
 wordpress_id: 1852

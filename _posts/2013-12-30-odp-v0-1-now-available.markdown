@@ -3,7 +3,7 @@ author: bill.fischofer
 comments: true
 date: 2013-12-30 10:32:42+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-v0-1-now-available/
+link: https://www.opendataplane.org/blog/odp-v0-1-now-available/
 slug: odp-v0-1-now-available
 title: 'ODP v0.1 is now available '
 wordpress_id: 117

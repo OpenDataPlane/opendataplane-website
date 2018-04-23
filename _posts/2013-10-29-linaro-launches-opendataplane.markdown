@@ -3,7 +3,7 @@ author: bill.fischofer
 comments: false
 date: 2013-10-29 12:24:01+00:00
 layout: post
-link: https://www.opendataplane.org/news/linaro-launches-opendataplane/
+link: https://www.opendataplane.org/blog/linaro-launches-opendataplane/
 slug: linaro-launches-opendataplane
 title: Linaro launches OpenDataPlane (ODP)
 wordpress_id: 308
@@ -31,7 +31,7 @@ The ODP standard will be developed in the open. The project API will adopt a BSD
 
 Linaro is the place where engineers from the world’s leading technology companies define the future of Linux on ARM. The company is a not-for-profit engineering organization with over 180 engineers working on consolidating and optimizing open source software for the ARM architecture, including developer tools, the Linux kernel, ARM power management, and other software infrastructure. Linaro is distribution neutral: it wants to provide the best software foundations to everyone, and to reduce non-differentiating and costly low level fragmentation.
 
-To ensure commercial grade software, Linaro executes comprehensive test and validation on member hardware platforms. The full scope of Linaro’s engineering work is open to all online. To find out more, please visit [http://www.linaro.org](http://www.linaro.org/).
+To ensure commercial grade software, Linaro executes comprehensive test and validation on member hardware platforms. The full scope of Linaro’s engineering work is open to all online. To find out more, please visit [http://www.linaro.org](https://www.linaro.org/).
 
 _**Media contact:**_ Steve Taylor, [media@linaro.org](mailto:media@linaro.org)
 
@@ -116,4 +116,4 @@ With headquarters in Espoo, Finland, we operate in over 120 countries and had ne
 
 _**About TI:**_ Texas Instruments semiconductor innovations help 90,000 customers unlock the possibilities of the world as it could be – smarter, safer, greener, healthier and more fun. Our commitment to building a better future is ingrained in everything we do – from the responsible manufacturing of our semiconductors, to caring for our employees, to giving back inside our communities. This is just the beginning of our story. Learn more at [www.ti.com](http://www.ti.com/).
 
-For more information on the company, access to software and tools, and information on the community and open engineering, visit [www.linaro.org](http://www.linaro.org/)
+For more information on the company, access to software and tools, and information on the community and open engineering, visit [www.linaro.org](https://www.linaro.org/)

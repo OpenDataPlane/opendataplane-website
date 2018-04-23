@@ -3,9 +3,9 @@ author: shovan
 comments: false
 date: 2016-06-20 18:30:13+00:00
 layout: post
-link: https://www.opendataplane.org/news/opnfv-summit-presentation-operators-think-opnfv/
+link: https://www.opendataplane.org/blog/opnfv-summit-presentation-operators-think-opnfv/
 slug: opnfv-summit-presentation-operators-think-opnfv
-title: 'OPNFV Summit presentation:  "What Operators think about OPNFV"'
+title: 'OPNFV Summit presentation &#58; What Operators think about OPNFV'
 wordpress_id: 2397
 categories:
 - News Hub

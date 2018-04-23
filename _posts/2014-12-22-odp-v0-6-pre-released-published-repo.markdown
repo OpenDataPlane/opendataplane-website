@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-12-22 15:11:08+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-v0-6-pre-released-published-repo/
+link: https://www.opendataplane.org/blog/odp-v0-6-pre-released-published-repo/
 slug: odp-v0-6-pre-released-published-repo
 title: ODP v0.6 Pre-release published to the repo
 wordpress_id: 932

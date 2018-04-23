@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-09-24 18:59:53+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-demos-at-linaro-connect-sfo15/
+link: https://www.opendataplane.org/blog/opendataplane-demos-at-linaro-connect-sfo15/
 slug: opendataplane-demos-at-linaro-connect-sfo15
 title: OpenDataPlane demos at Linaro Connect SFO15
 wordpress_id: 1688
@@ -20,7 +20,10 @@ tags:
 - ODP
 - OpenDataPlane
 - SFO15
-featured_image: /images/posts/odp-thumb-opendataplane-demos-at-linaro-connect-sfo15.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-opendataplane-demos-at-linaro-connect-sfo15.jpg
+    name: odp-thumb-opendataplane-demos-at-linaro-connect-sfo15.jpg
 ---
 
 Join us TODAY at Linaro Connect SFO15 for eight networking demos from our generous member companies and engineers.

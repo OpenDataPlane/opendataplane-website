@@ -3,14 +3,17 @@ author: mike.holmes
 comments: false
 date: 2016-08-15 17:42:59+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-pcie-nic-performance-odp-l2fwd/
+link: https://www.opendataplane.org/blog/odp-pcie-nic-performance-odp-l2fwd/
 slug: odp-pcie-nic-performance-odp-l2fwd
 title: ODP PCIe NIC Performance with ODP l2fwd
 wordpress_id: 2532
 categories:
 - News Hub
 - Performance
-featured_image: /images/posts/odp-thumb-forwarding-rate.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-forwarding-rate.png
+    name: odp-thumb-forwarding-rate.png
 ---
 When looking at PCIe NIC based systems performance can be assessed using the ODP PCIe optimised implementation (odp-dpdk, or the generic reference implementation odp-linux can be used, this implementation is not optimised for a specific platform.
 

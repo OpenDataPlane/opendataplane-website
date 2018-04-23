@@ -1,9 +1,7 @@
 ---
-layout: contact-dt
+layout: full-width-breadcrumb
 title: Contact
 permalink: /contact/
-js-vendor: contact
-css-pack: contact
 ---
 <div id="contact-thanks">
     <div class="jumbotron">
@@ -33,3 +31,4 @@ css-pack: contact
       </div>
     </div>
 </div>
+

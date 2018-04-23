@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-04-01 18:05:47+00:00
 layout: post
-link: https://www.opendataplane.org/news/arm-learn-more-about-the-tremendous-value-open-data-plane-brings-to-nfv-webinar/
+link: https://www.opendataplane.org/blog/arm-learn-more-about-the-tremendous-value-open-data-plane-brings-to-nfv-webinar/
 slug: arm-learn-more-about-the-tremendous-value-open-data-plane-brings-to-nfv-webinar
 title: 'ARM: Learn more about the tremendous value OpenDataPlane brings to NFV -Webinar'
 wordpress_id: 1225
@@ -22,7 +22,10 @@ tags:
 - Open source
 - OpenDataPlane
 - Opensource
-featured_image: /images/posts/odp-thumb-armwebinar.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-armwebinar.jpg
+    name: odp-thumb-armwebinar.jpg
 ---
 
 {% include image.html name="armwebinar.jpg" alt="Arm Webinar Image"%}

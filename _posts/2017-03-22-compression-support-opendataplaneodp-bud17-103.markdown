@@ -3,13 +3,16 @@ author: celia.ilardi
 comments: false
 date: 2017-03-22 13:35:17+00:00
 layout: post
-link: https://www.opendataplane.org/news/compression-support-opendataplaneodp-bud17-103/
+link: https://www.opendataplane.org/blog/compression-support-opendataplaneodp-bud17-103/
 slug: compression-support-opendataplaneodp-bud17-103
 title: Compression support in OpenDataPlane(ODP) - BUD17-103
 wordpress_id: 2866
 categories:
 - News Hub
-featured_image: /images/posts/odp-thumb-compression-support-in-opendataplane.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-compression-support-in-opendataplane.jpg
+    name: odp-thumb-compression-support-in-opendataplane.jpg
 ---
 
 {% include media.html media_url="https://www.youtube.com/embed/aTOL0rGuIn8" %}

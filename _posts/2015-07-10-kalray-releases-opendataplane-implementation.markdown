@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-07-10 20:34:23+00:00
 layout: post
-link: https://www.opendataplane.org/news/kalray-releases-opendataplane-implementation/
+link: https://www.opendataplane.org/blog/kalray-releases-opendataplane-implementation/
 slug: kalray-releases-opendataplane-implementation
 title: Kalray releases OpenDataPlane implementation
 wordpress_id: 1429

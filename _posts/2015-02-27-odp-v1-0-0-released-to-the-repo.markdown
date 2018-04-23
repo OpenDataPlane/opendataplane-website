@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-02-27 13:32:04+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-v1-0-0-released-to-the-repo/
+link: https://www.opendataplane.org/blog/odp-v1-0-0-released-to-the-repo/
 slug: odp-v1-0-0-released-to-the-repo
 title: ODP v1.0.0 Released to the repo!
 wordpress_id: 1508
@@ -26,7 +26,10 @@ tags:
 - release
 - SDN
 - Software Defined Networking
-featured_image: /images/posts/odp-thumb-ODPv1.0_logo6.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-ODPv1.0_logo6.jpg
+    name: odp-thumb-ODPv1.0_logo6.jpg
 ---
 
 {% include image.html name="ODPv1.0_logo6.jpg" alt="ODPv1.0_logo6" %}

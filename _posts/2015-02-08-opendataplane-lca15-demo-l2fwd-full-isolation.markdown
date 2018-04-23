@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-02-08 18:24:23+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-lca15-demo-l2fwd-full-isolation/
+link: https://www.opendataplane.org/blog/opendataplane-lca15-demo-l2fwd-full-isolation/
 slug: opendataplane-lca15-demo-l2fwd-full-isolation
 title: 'OpenDataPlane LCA15 Demo: Performance / Overhead with Full Isolation'
 wordpress_id: 968

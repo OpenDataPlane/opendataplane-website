@@ -3,7 +3,7 @@ author: shovan
 comments: false
 date: 2015-11-04 11:33:05+00:00
 layout: post
-link: https://www.opendataplane.org/news/opnfv-opendataplane-mini-summit/
+link: https://www.opendataplane.org/blog/opnfv-opendataplane-mini-summit/
 slug: opnfv-opendataplane-mini-summit
 title: OPNFV OpenDataPlane mini summit
 wordpress_id: 1769

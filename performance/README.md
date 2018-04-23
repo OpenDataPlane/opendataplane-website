@@ -1,6 +1,6 @@
 ---
 title: Performance Numbers
-layout: default-plain
+layout: container-breadcrumb
 description: |-
     These are as is reports of testing as it happens that might be of interest to a wider audience, often they drive performance improvements.
 permalink: /performance/
@@ -15,10 +15,10 @@ These are as is reports of testing as it happens that might be of interest to a 
         <div class="col-xs-6 col-md-4">
             <div class="card card-inverse card-info">
 <div markdown="1">
-{% include image.html name="odp-thumb-pcie-nic-performance-ofp-fpm_burstmode.png" class="card-img-top" alt="Burst Mode Graph Image" url="/news/odp-pcie-nic-performance-ofp-fpm_burstmode/" %}
+{% include image.html name="odp-thumb-pcie-nic-performance-ofp-fpm_burstmode.png" class="card-img-top" alt="Burst Mode Graph Image" url="/blog/odp-pcie-nic-performance-ofp-fpm_burstmode/" %}
 </div>
                 <div class="card-block">
-                    <a href="/news/odp-pcie-nic-performance-ofp-fpm_burstmode/">
+                    <a href="/blog/odp-pcie-nic-performance-ofp-fpm_burstmode/">
                         <h4 class="card-title">ODP PCIE NIC performance with OFP FPM_BURSTMODE</h4>
                     </a>
                     <div class="meta">
@@ -29,17 +29,17 @@ These are as is reports of testing as it happens that might be of interest to a 
                     </div>
                 </div>
                 <div class="card-footer">
-                    <a href="/news/odp-pcie-nic-performance-ofp-fpm_burstmode/" class="btn btn-primary btn-sm">Read More ></a>
+                    <a href="/blog/odp-pcie-nic-performance-ofp-fpm_burstmode/" class="btn btn-primary btn-sm">Read More ></a>
                 </div>
             </div>
         </div>
         <div class="col-xs-6 col-md-4">
             <div class="card card-inverse card-info">
 <div markdown="1">
-{% include image.html name="odp-thumb-forwarding-rate.png" class="card-img-top" alt="Forwarding Rate Graph Image" url="/news/odp-pcie-nic-performance-odp-l2fwd/" %}
+{% include image.html name="odp-thumb-forwarding-rate.png" class="card-img-top" alt="Forwarding Rate Graph Image" url="/blog/odp-pcie-nic-performance-odp-l2fwd/" %}
 </div>
                 <div class="card-block">
-                    <a href="/news/odp-pcie-nic-performance-odp-l2fwd/">
+                    <a href="/blog/odp-pcie-nic-performance-odp-l2fwd/">
                         <h4 class="card-title">ODP PCIE NIC performance with ODP L2FWD</h4>
                     </a>
                     <div class="meta">
@@ -50,17 +50,17 @@ These are as is reports of testing as it happens that might be of interest to a 
                     </div>
                 </div>
                 <div class="card-footer">
-                    <a href="/news/odp-pcie-nic-performance-odp-l2fwd/" class="btn btn-primary btn-sm">Read More > </a>
+                    <a href="/blog/odp-pcie-nic-performance-odp-l2fwd/" class="btn btn-primary btn-sm">Read More > </a>
                 </div>
             </div>
         </div>
         <div class="col-xs-6 col-md-4">
             <div class="card card-inverse card-info">
 <div markdown="1">
-{% include image.html name="odp-thumb-las16-accelerating-applications-ofpodp.png" class="card-img-top" alt="ODP Accelerating Applications Image" url="/news/las16-accelerating-applications-ofpodp/" %}
+{% include image.html name="odp-thumb-las16-accelerating-applications-ofpodp.png" class="card-img-top" alt="ODP Accelerating Applications Image" url="/blog/las16-accelerating-applications-ofpodp/" %}
 </div>
                 <div class="card-block">
-                <a href="/news/las16-accelerating-applications-ofpodp/">
+                <a href="/blog/las16-accelerating-applications-ofpodp/">
                     <h4 class="card-title">LAS16: Accelerating applications with OFP+ODP</h4>
                 </a>
                     <div class="meta">
@@ -71,7 +71,7 @@ These are as is reports of testing as it happens that might be of interest to a 
                     </div>
                 </div>
                 <div class="card-footer">
-                    <a href="/news/las16-accelerating-applications-ofpodp/" class="btn btn-primary btn-sm">Read More > </a>
+                    <a href="/blog/las16-accelerating-applications-ofpodp/" class="btn btn-primary btn-sm">Read More > </a>
                 </div>
             </div>
         </div>
@@ -79,10 +79,10 @@ These are as is reports of testing as it happens that might be of interest to a 
         <div class="col-xs-6 col-md-4">
             <div class="card card-inverse card-info">
 <div markdown="1">
-{% include image.html name="odp-thumb-openssl-upto-20x-performance-improvement.png" class="card-img-top"  url="/news/odp-openssl-upto-20x-performance-improvement-large-packets/" alt="ODP OpenSSL upto 20x Performance Improvement Image" %}
+{% include image.html name="odp-thumb-openssl-upto-20x-performance-improvement.png" class="card-img-top"  url="/blog/odp-openssl-upto-20x-performance-improvement-large-packets/" alt="ODP OpenSSL upto 20x Performance Improvement Image" %}
 </div>
                 <div class="card-block">
-                <a href="/news/odp-openssl-upto-20x-performance-improvement-large-packets/">
+                <a href="/blog/odp-openssl-upto-20x-performance-improvement-large-packets/">
                     <h4 class="card-title">ODP with OPENSSL upto 20X performance improvement with large packets.</h4>
                 </a>
                     <div class="meta">
@@ -93,7 +93,7 @@ These are as is reports of testing as it happens that might be of interest to a 
                     </div>
                 </div>
                 <div class="card-footer">
-                    <a href="/news/odp-openssl-upto-20x-performance-improvement-large-packets/" class="btn btn-primary btn-sm">Read More > </a>
+                    <a href="/blog/odp-openssl-upto-20x-performance-improvement-large-packets/" class="btn btn-primary btn-sm">Read More > </a>
                 </div>
             </div>
         </div>

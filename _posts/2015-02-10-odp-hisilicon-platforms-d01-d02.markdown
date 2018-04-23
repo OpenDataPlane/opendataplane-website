@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-02-10 02:06:21+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-hisilicon-platforms-d01-d02/
+link: https://www.opendataplane.org/blog/odp-hisilicon-platforms-d01-d02/
 slug: odp-hisilicon-platforms-d01-d02
 title: ODP on HiSilicon Platforms (D01, D02)
 wordpress_id: 1011
@@ -18,7 +18,10 @@ tags:
 - networking
 - ODP
 - OpenDataPlane
-featured_image: /images/posts/odp-thumb-hisilicondemopic.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-hisilicondemopic.png
+    name: odp-thumb-hisilicondemopic.png
 ---
 
 {% include image.html name="connectfooter.png" alt="Connect Footer Image" url="http://connect.linaro.org/hkg15/"%}

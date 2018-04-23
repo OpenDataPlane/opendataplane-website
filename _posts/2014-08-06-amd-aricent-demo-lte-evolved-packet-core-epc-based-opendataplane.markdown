@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-08-06 13:34:43+00:00
 layout: post
-link: https://www.opendataplane.org/news/amd-aricent-demo-lte-evolved-packet-core-epc-based-opendataplane/
+link: https://www.opendataplane.org/blog/amd-aricent-demo-lte-evolved-packet-core-epc-based-opendataplane/
 slug: amd-aricent-demo-lte-evolved-packet-core-epc-based-opendataplane
 title: AMD and Aricent demo LTE Evolved Packet Core (EPC) based on OpenDataPlane
 wordpress_id: 616

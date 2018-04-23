@@ -3,10 +3,9 @@ author: shovan
 comments: false
 date: 2016-06-21 18:09:24+00:00
 layout: post
-link: https://www.opendataplane.org/news/marvell-introduces-cost-effective-high-performance-armada-8040-networking-community-board-opendataplane-openfastpath-arm-nfv-ecosystems/
+link: https://www.opendataplane.org/blog/marvell-introduces-cost-effective-high-performance-armada-8040-networking-community-board-opendataplane-openfastpath-arm-nfv-ecosystems/
 slug: marvell-introduces-cost-effective-high-performance-armada-8040-networking-community-board-opendataplane-openfastpath-arm-nfv-ecosystems
-title: Marvell Introduces the Cost-Effective, High-Performance ARMADA 8040 Networking
-  Community Board for OpenDataPlane, OpenFastPath and ARM NFV Ecosystems
+title: Marvell Introduces the Cost-Effective, High-Performance ARMADA 8040 Networking Community Board for OpenDataPlane, OpenFastPath and ARM NFV Ecosystems
 wordpress_id: 2395
 categories:
 - News Hub

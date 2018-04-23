@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2014-09-30 17:49:35+00:00
 layout: post
-link: https://www.opendataplane.org/news/orange-interview-dr-christos-kolias-raj-murali-nfv/
+link: https://www.opendataplane.org/blog/orange-interview-dr-christos-kolias-raj-murali-nfv/
 slug: orange-interview-dr-christos-kolias-raj-murali-nfv
 title: Connect Interview with Orange's Dr Christos Kolias and Linaro's Raj Murali
   - NFV, SDN, ODP
@@ -22,7 +22,10 @@ tags:
 - Orange
 - Software Defined Networking
 - VOQ
-featured_image: /images/posts/odp-thumb-orange-interview.jpg
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-orange-interview.jpg
+    name: odp-thumb-orange-interview.jpg
 ---
 
 Linaro Connect USA 2014 - September 18, 2014

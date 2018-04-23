@@ -3,9 +3,9 @@ author: marshall.guillory
 comments: false
 date: 2015-12-14 13:33:21+00:00
 layout: post
-link: https://www.opendataplane.org/news/openfastpath-nokia-arm-enea-craft-new-tcpip-stack-for-the-cloud/
+link: https://www.opendataplane.org/blog/openfastpath-nokia-arm-enea-craft-new-tcpip-stack-for-the-cloud/
 slug: openfastpath-nokia-arm-enea-craft-new-tcpip-stack-for-the-cloud
-title: 'OpenFastPath: Nokia, ARM, Enea craft new TCP/IP stack for the cloud'
+title: 'OpenFastPath &#58; Nokia, ARM, Enea craft new TCP/IP stack for the cloud'
 wordpress_id: 1898
 categories:
 - News Hub

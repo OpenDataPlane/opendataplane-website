@@ -3,14 +3,17 @@ author: mike.holmes
 comments: false
 date: 2016-08-15 17:05:36+00:00
 layout: post
-link: https://www.opendataplane.org/news/odp-pcie-nic-performance-ofp-fpm_burstmode/
+link: https://www.opendataplane.org/blog/odp-pcie-nic-performance-ofp-fpm_burstmode/
 slug: odp-pcie-nic-performance-ofp-fpm_burstmode
 title: ODP PCIe NIC Performance with OFP fpm_burstmode
 wordpress_id: 2498
 categories:
 - News Hub
 - Performance
-featured_image: /images/posts/odp-thumb-pcie-nic-performance-ofp-fpm_burstmode.png
+image:
+    featured: true
+    path: /assets/images/posts/odp-thumb-pcie-nic-performance-ofp-fpm_burstmode.png
+    name: odp-thumb-pcie-nic-performance-ofp-fpm_burstmode.png
 ---
 
 When looking at PCIe NIC based systems performance can be assessed using the ODP PCIe optimised implementation (odp-dpdk, or the generic reference implementation odp-linux can be used, this implementation is not optimised for a specific platform.

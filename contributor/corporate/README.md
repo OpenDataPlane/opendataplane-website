@@ -2,7 +2,7 @@
 title: Corporate Contributor License Agreement
 description: Link to Corporate Contributor License Agreement document.
 permalink: /contributor/corporate/
-layout: default-plain
+layout: container-breadcrumb
 ---
 
 ## Corporate Contributor

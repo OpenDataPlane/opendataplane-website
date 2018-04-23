@@ -3,7 +3,7 @@ author: marshall.guillory
 comments: false
 date: 2015-11-12 16:19:30+00:00
 layout: post
-link: https://www.opendataplane.org/news/opendataplane-mini-summit-opnfv-november-2015/
+link: https://www.opendataplane.org/blog/opendataplane-mini-summit-opnfv-november-2015/
 slug: opendataplane-mini-summit-opnfv-november-2015
 title: OpenDataPlane Mini Summit @OPNFV November 2015
 wordpress_id: 1779
