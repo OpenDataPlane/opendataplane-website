@@ -14,11 +14,12 @@ js-package: search
     fess.charset = 'utf-8';
     fess.setAttribute('id', 'fess-ss');
     fess.setAttribute('enable-order', 'false');
-    fess.setAttribute('link-target', '_blank');
+    fess.setAttribute('link-target', '\_blank');
     // fess-url is URL for Fess Server
     fess.setAttribute('fess-url', 'http://search.linaro.org/json/?fields.label=OpenDataPlane');
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(fess, s);
   })();
 </script>
+
 <fess:search-result-only></fess:search-result-only>
