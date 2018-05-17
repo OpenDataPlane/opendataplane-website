@@ -16,7 +16,7 @@ js-package: search
     fess.setAttribute('enable-order', 'false');
     fess.setAttribute('link-target', '\_blank');
     // fess-url is URL for Fess Server
-    fess.setAttribute('fess-url', 'http://search.linaro.org/json/?fields.label=OpenDataPlane');
+    fess.setAttribute('fess-url', 'https://search.linaro.org/json/?fields.label=OpenDataPlane');
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(fess, s);
   })();
