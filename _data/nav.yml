@@ -6,6 +6,7 @@
 search:
     enabled: true
     label: OpenDataPlane
+universal-nav: true
 brand:
     text: OpenDataPlane
     image: 
