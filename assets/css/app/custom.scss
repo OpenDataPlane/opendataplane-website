@@ -143,6 +143,7 @@ div.content-container
 }
 div.recent_post_image {
     background-color: $brand-primary;
+    overflow: hidden;
 }
 //Blog Image
 img.recent_post_image {
