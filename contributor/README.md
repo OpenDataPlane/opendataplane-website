@@ -7,7 +7,12 @@ permalink: /contributor/
 ---
 ## Contributor
 
-Are you interested in becoming a contributor to the OpenDataPlane project? Great! Please see the detailed information below located in the ODP GIT repository to get started.
+Are you interested in becoming a contributor to the OpenDataPlane project? Great! Please see the detailed information below to get started.
+
+
+- [Coporate Contributor](/contributor/corporate/)
+- [Individual Contributor](/contributor/individual/)
+
 
 ```
 Copyright (c) 2013-2014, Linaro Limited
