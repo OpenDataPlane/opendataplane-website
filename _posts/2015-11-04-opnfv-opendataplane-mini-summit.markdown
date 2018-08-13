@@ -10,7 +10,7 @@ wordpress_id: 1769
 categories:
 - News Hub
 ---
-During the [OPNFV Design Summit](http://events.linuxfoundation.org/events/opnfv-summit/extend-the-experience/opnfv-design-summit) next week (Tuesday, November 10), the OpenDataPlane project is hosting a day of presentations, demos, and discussions:8:50-
+During the [OPNFV Design Summit](http://events.linuxfoundation.org/) next week (Tuesday, November 10), the OpenDataPlane project is hosting a day of presentations, demos, and discussions:8:50-
 
   * 9:00 Welcome and Introduction (Bob Monkman- ARM)
 
@@ -40,4 +40,4 @@ During the [OPNFV Design Summit](http://events.linuxfoundation.org/events/opnfv
 **Date**: Tuesday, November 10, 2015
 **Venue**: Hyatt Regency San Francisco Airport
 **Location**: Burlingame, CA, US
-**URL**: [http://events.linuxfoundation.org/events/opnfv-summit/extend-the-experience/odp](http://events.linuxfoundation.org/events/opnfv-summit/extend-the-experience/odp)
+**URL**: [http://events.linuxfoundation.org](http://events.linuxfoundation.org)

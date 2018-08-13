@@ -74,7 +74,7 @@ Read the new white paper about OpenDataPlane (ODP), a standardized data plane AP
   * Read Bob Monkman's blog [http://community.arm.com/groups/internet-of-things/blog/2015/05/05/arm-ecosystem-getting-behind-the-intelligent-flexible-cloud-vision-freescale](http://community.arm.com/groups/internet-of-things/blog/2015/05/05/arm-ecosystem-getting-behind-the-intelligent-flexible-cloud-vision-freescale)
 
 
-  * Read Joe Kidder's blog, [ARM and Enea Enable Diverse Silicon Support for Efficient OPNFV - explained](http://community.arm.com/community/arm-partner-directory/partner-enea-software-ab/blog/2015/05/05/arm-and-enea-enable-diverse-silicon-support-for-efficient-opnfv--explained)
+  * Read Joe Kidder's blog, [ARM and Enea Enable Diverse Silicon Support for Efficient OPNFV - explained](https://www.arm.com/about/newsroom/arm-and-enea-enable-diverse-silicon-support-for-efficient-opnfv.php)
 
 
   * Read the press release, [ARM and Enea Enable Diverse Silicon Support for Efficient](http://www.arm.com/about/newsroom/arm-and-enea-enable-diverse-silicon-support-for-efficient-opnfv.php) OPNFV
