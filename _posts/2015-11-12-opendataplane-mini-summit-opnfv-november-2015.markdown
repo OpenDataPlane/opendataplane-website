@@ -35,7 +35,7 @@ The afternoon demonstrations session provided an opportunity to talk centering o
 
 References:
 
-[1] [http://events.linuxfoundation.org/events/opnfv-summit/extend-the-experience/odp](http://events.linuxfoundation.org/events/opnfv-summit/extend-the-experience/odp)
+[1] [http://events.linuxfoundation.org/](http://events.linuxfoundation.org/)
 
 [2] Presented by Chris Moezzi (Sr. Director, Product Line Management, StrataGX ARM Processors) Broadcom
 
