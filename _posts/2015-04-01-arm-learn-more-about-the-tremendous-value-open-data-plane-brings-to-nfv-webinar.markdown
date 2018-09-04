@@ -73,7 +73,7 @@ Bill has over 25 years’ experience in the information technology sector, worki
 
 ## Contact Info
 
-  * [![Danni](http://community.arm.com/people/dannicoffey/avatar/24.png?a=1332)](http://community.arm.com/people/dannicoffey)[Danni](http://community.arm.com/people/dannicoffey)
+  * [Danni Coffey](http://community.arm.com/people/dannicoffey)
 (Owner)
 
-    * [![bobmonkman](http://community.arm.com/people/bobmonkman/avatar/24.png?a=1167)](http://community.arm.com/people/bobmonkman) [bobmonkman](http://community.arm.com/people/bobmonkman)
+  * [Bob Monkman](http://community.arm.com/people/bobmonkman)
