@@ -6,6 +6,7 @@
 search:
     enabled: true
     label: OpenDataPlane
+universal-nav: true
 brand:
     text: OpenDataPlane
     image: 
@@ -35,7 +36,14 @@ pages:
               url: https://lists.linaro.org/mailman/listinfo/lng-odp
               external: true
     - title: Developers
+      left: true
       options:
+            - text: Become a Contributor
+              options:
+                - text: Corporate
+                  url: /contributor/corporate/
+                - text: Individual
+                  url: /contributor/individual/
             - text: Developers Home
               url: /developers/
             - text: Git

@@ -143,6 +143,7 @@ div.content-container
 }
 div.recent_post_image {
     background-color: $brand-primary;
+    overflow: hidden;
 }
 //Blog Image
 img.recent_post_image {
@@ -220,3 +221,12 @@ li.side-nav-button:hover {
 #contact-thanks h3 {
     color: #000 !important;
 }
+
+// Overide the margin-bottom on the featured-jumbotron so the shaped divider is positoned correctly.
+#wrapper div#featured-jumbotron {
+    margin-bottom: 0px;
+}   
+.container.main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+} 
