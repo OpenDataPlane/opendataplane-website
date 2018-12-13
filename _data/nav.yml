@@ -11,7 +11,7 @@ brand:
     text: OpenDataPlane
     image: 
         enabled: true
-        name: ODP-Standard-Logo.png
+        path: /assets/images/ODP-Standard-Logo.png
     url: /
 pages:
     - title: Users
