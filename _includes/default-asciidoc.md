@@ -1,3 +1,3 @@
 ---
-layout: container-breadcrumb
+layout: jumbotron-container
 ---

@@ -1,5 +1,5 @@
 ---
-layout: container-breadcrumb
+layout: jumbotron-container
 ---
 :toc:
 :toclevels: 1
