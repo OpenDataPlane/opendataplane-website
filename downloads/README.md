@@ -18,17 +18,8 @@ of the ODP reference from Git**
 
 <tr id="TR_15">
 
-<th>
-</th>
-
-<th colspan="1" id="TH_17">odp-linux
-pktio types:
- - Socket
- - Netmap
- - DPDK
- - TAP
- - Loop
-</th>
+<th> Reposity description </th>
+<th colspan="1" id="TH_17"> Git link </th>
 
 </tr>
 
@@ -37,44 +28,15 @@ pktio types:
 <tbody id="TBODY_19">
 
 <tr id="TR_20">
-
-<td rowspan="1" id="TD_21">Development Repo</td>
-
-<td id="TD_22" markdown="1">
-[![Development Repo Leaf Icon](/assets/images/leaf.png)](https://github.com/Linaro/odp.git)
-</td>
-
+<td id="TD_21"> ODP API and Linux generic reference implementation </td>
+<td id="TD_22"> [odp-linux](https://github.com/opendataplane/odp.git) </td>
 </tr>
 
-<tr id="TR_27">
-
-<td rowspan="1" id="TD_28">Git Repo Tags</td>
-
-<td id="TD_29" markdown="1">
-[![Git Repo Tags Leaf Icon](/assets/images/leaf.png)](https://github.com/Linaro/odp/releases)
-</td>
-
+<tr id="TR_23">
+<td id="TD_24"> ODP implementation utilizing DPDK </td>
+<td id="TD_25"> [odp-dpdk](https://github.com/opendataplane/odp-dpdk.git) </td>
 </tr>
 
-<tr id="TR_34">
-
-<td rowspan="1" id="TD_35">Patchworks</td>
-
-<td id="TD_36" markdown="1">
-[![Patchworks Leaf Icon](/assets/images/leaf.png)](http://patches.opendataplane.org/project/lng-odp/list/)
-</td>
-
-</tr>
-
-<tr id="TR_41">
-
-<td rowspan="1" id="TD_42">Latest Stable Release</td>
-
-<td id="TD_43" markdown="1">
-[![Tigermoth RC3 v1.18.0.1](/assets/images/leaf.png)](https://github.com/Linaro/odp/releases/tag/v1.18.0.1_tigermoth_rc3)
-</td>
-
-</tr>
 </tbody>
 </table>
 
