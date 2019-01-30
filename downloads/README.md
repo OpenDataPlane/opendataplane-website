@@ -47,8 +47,7 @@ of the ODP reference from Git**
 
 <div class="col-md-6" markdown="1">
 
-**Download other Open and Support
-Account Access implementations**
+**Download other open source implementations of ODP**
 
 <div class="responsive-table">
 
