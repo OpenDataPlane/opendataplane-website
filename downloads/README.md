@@ -17,10 +17,8 @@ of the ODP reference from Git**
 <thead id="THEAD_14">
 
 <tr id="TR_15">
-
-<th> Reposity description </th>
+<th> Repository description </th>
 <th colspan="1" id="TH_17"> Git link </th>
-
 </tr>
 
 </thead>
