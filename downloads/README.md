@@ -125,20 +125,6 @@ Account Access implementations**
 </tr>
 
 <tr id="TR_90">
-
-<td id="TD_91" markdown="1">
-[![linaro](/assets/images/linaro.png)](http://linaro.org)
-</td>
-
-<td id="TD_94" markdown="1">
-[Link](https://github.com/Linaro/odp-dpdk)
-</td>
-
-<td id="TD_96">ODP-DPDK: SW optimized implementation using DPDK</td>
-
-</tr>
-
-<tr id="TR_90">
 <td id="TD_91" markdown="1">
 [![Marvell](https://www.marvell.com/assets/images/marvell-logo2.svg)](https://www.marvell.com)
 </td>
