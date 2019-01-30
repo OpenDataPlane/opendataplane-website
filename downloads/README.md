@@ -27,12 +27,16 @@ of the ODP reference from Git**
 
 <tr id="TR_20">
 <td id="TD_21"> ODP API and Linux generic reference implementation </td>
-<td id="TD_22"> [odp-linux](https://github.com/opendataplane/odp.git) </td>
+<td id="TD_22" markdown="1">
+[odp-linux](https://github.com/OpenDataPlane/odp.git)
+</td>
 </tr>
 
 <tr id="TR_23">
 <td id="TD_24"> ODP implementation utilizing DPDK </td>
-<td id="TD_25"> [odp-dpdk](https://github.com/opendataplane/odp-dpdk.git) </td>
+<td id="TD_25" markdown="1">
+[odp-dpdk](https://github.com/OpenDataPlane/odp-dpdk.git)
+</td>
 </tr>
 
 </tbody>
@@ -43,8 +47,7 @@ of the ODP reference from Git**
 
 <div class="col-md-6" markdown="1">
 
-**Download other Open and Support
-Account Access implementations**
+**Download other open source implementations of ODP**
 
 <div class="responsive-table">
 
@@ -117,20 +120,6 @@ Account Access implementations**
 <td id="TD_87" markdown="1">
 [Link](https://git.linaro.org/lng/odp-keystone2.git)
 </td>
-
-</tr>
-
-<tr id="TR_90">
-
-<td id="TD_91" markdown="1">
-[![linaro](/assets/images/linaro.png)](http://linaro.org)
-</td>
-
-<td id="TD_94" markdown="1">
-[Link](https://github.com/Linaro/odp-dpdk)
-</td>
-
-<td id="TD_96">ODP-DPDK: SW optimized implementation using DPDK</td>
 
 </tr>
 
