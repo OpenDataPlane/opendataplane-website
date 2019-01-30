@@ -27,12 +27,16 @@ of the ODP reference from Git**
 
 <tr id="TR_20">
 <td id="TD_21"> ODP API and Linux generic reference implementation </td>
-<td id="TD_22"> [odp-linux](https://github.com/opendataplane/odp.git) </td>
+<td id="TD_22" markdown="1">
+[odp-linux](https://github.com/OpenDataPlane/odp.git)
+</td>
 </tr>
 
 <tr id="TR_23">
 <td id="TD_24"> ODP implementation utilizing DPDK </td>
-<td id="TD_25"> [odp-dpdk](https://github.com/opendataplane/odp-dpdk.git) </td>
+<td id="TD_25" markdown="1">
+[odp-dpdk](https://github.com/OpenDataPlane/odp-dpdk.git)
+</td>
 </tr>
 
 </tbody>
