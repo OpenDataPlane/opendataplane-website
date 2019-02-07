@@ -4,7 +4,7 @@ GEM
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     asciidoctor (1.5.8)
-    autoprefixer-rails (9.4.2)
+    autoprefixer-rails (9.4.7)
       execjs
     bootstrap-sass (3.3.7)
       autoprefixer-rails (>= 5.2.1)
@@ -61,7 +61,7 @@ GEM
     jekyll-minimagick (0.0.4)
       jekyll (>= 0.10.0)
       mini_magick (>= 3.3)
-    jekyll-paginate-v2 (2.0.0)
+    jekyll-paginate-v2 (2.1.0)
       jekyll (~> 3.0)
     jekyll-readme-index (0.2.0)
       jekyll (~> 3.0)
@@ -85,7 +85,7 @@ GEM
       jekyll
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    jumbo-jekyll-theme (3.0.57)
+    jumbo-jekyll-theme (3.9.1)
       autoprefixer-rails (~> 9.0, >= 9.0.0)
       bootstrap-sass (~> 3.3.6)
       ffi (~> 1.9.24)
@@ -103,6 +103,7 @@ GEM
       jekyll-sitemap (~> 1.1)
       jekyll-theme-assets-updated (~> 1.1)
       jekyll-tidy (~> 0.2.2)
+      jekyll-watch (~> 2.1.1)
       rack (>= 1.6.11)
       sprockets (~> 3.7.2)
       uglifier (> 0)
@@ -144,8 +145,8 @@ DEPENDENCIES
   jekyll-data
   jekyll-feed (~> 0.6)
   jekyll-minimagick
-  jumbo-jekyll-theme (= 3.0.57)
+  jumbo-jekyll-theme (= 3.9.1)
   tzinfo-data
 
 BUNDLED WITH
-   1.17.1
+   1.17.2
