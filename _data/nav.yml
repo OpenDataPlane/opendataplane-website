@@ -4,9 +4,9 @@
 # - Toggle Search Bar.
 # Search Config
 search:
-    enabled: true
+    enabled: false
     label: OpenDataPlane
-universal-nav: true
+universal-nav: false
 brand:
     text: OpenDataPlane
     image: 
