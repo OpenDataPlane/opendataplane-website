@@ -1,0 +1,48 @@
+title: The OpenDataPlane Project
+description: > # this means to ignore newlines until "baseurl:"
+  The ODP project has been established to produce an open-source, cross-platform set of application programming interfaces (APIs) for the networking software defined data plane.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.opendataplane.org" # the base hostname & protocol for your site, e.g. http://example.com
+production: false
+blog_images_dir: assets/images/posts/
+# Build settings
+markdown: kramdown
+theme: jumbo-jekyll-theme
+plugins:
+  - jekyll-feed
+  - jekyll-data
+jekyll_tidy: # Compress the html and beautify it.
+    compress_html: true
+    exclude: ["assets/**/*.js", robots.txt] #Add the js file to exclude to stop jekyll tidy errors.
+paginate_path: /blog/:num/ # Pagination Path for Blogs
+permalink: /blog/:title/
+assets:
+    sources:
+        - /assets/images/posts/
+        - /assets/images/
+exclude:
+    - .asset-cache
+    - .sass-cache
+mini_magick:
+    # Blog Image Presets
+    blog_thumbnails:
+        source: assets/images/posts
+        destination: assets/images/thumbnails/
+        resize: "100x100"
+        thumbnail: "100x100>"
+        gravity: "Center"
+        extent: "100x100"
+    blog_medium:
+        source: assets/images/posts
+        destination: assets/images/medium/
+        resize: "300x300"
+        thumbnail: "300x300>"
+        gravity: "Center"
+        extent: "300x300"
+    blog_large:
+        source: assets/images/posts
+        destination: assets/images/large/
+        resize: "500x500"
+        thumbnail: "500x500>"
+        gravity: "Center"
+        extent: "500x500"

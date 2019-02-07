@@ -5,11 +5,9 @@ description: |-
 layout: container-breadcrumb
 permalink: /about/
 ---
-## About
+#### **What is the OpenDataPlane project?**
 
 > OpenDataPlane (ODP) is a cross-platform data plane SoC networking open source API.
-
-#### **What is the OpenDataPlane project?**
 
 The OpenDataPlane project has been established to produce an open-source, cross-platform set of application programming interfaces (APIs) for the networking data plane.
 

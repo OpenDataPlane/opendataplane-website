@@ -2,12 +2,9 @@
 title: Developers
 description: |-
     This section of the web site is designed to provide information and resources of interest to platform vendors who wish to provide an implementation of ODP on their platform. Here you’ll learn how ODP can enable you to compete for ODP applications by providing a tailored implementation that leverages the unique capabilities of your hardware to provide attractive price/performance targets for customers deploying ODP applications.
-layout: container-breadcrumb-left-sidebar
+layout: jumbotron-container-left-sidebar
 permalink: /developers/
 ---
-
-# Developers Home Page
-
 Welcome to OpenDataPlane (ODP). This section of the web site is designed to provide information and resources of interest to platform vendors who wish to provide an implementation of ODP on their platform. Here you’ll learn how ODP can enable you to compete for ODP applications by providing a tailored implementation that leverages the unique capabilities of your hardware to provide attractive price/performance targets for customers deploying ODP applications.
 
 ## Portability and Performance

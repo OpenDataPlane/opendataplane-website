@@ -2,7 +2,7 @@
 title: Testing
 description: |-
     ODP has a Jenkins build server testing ODP on ARM and X86 platforms, and reflecting the different ODP implementations supported by LNG. The build service performs various build, static analysis, cross compile and execution tests summarized below.
-layout: container-breadcrumb-left-sidebar
+layout: jumbotron-container-left-sidebar
 permalink: /testing/
 ---
 ## Testing

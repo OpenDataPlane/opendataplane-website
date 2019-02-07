@@ -4,14 +4,14 @@
 # - Toggle Search Bar.
 # Search Config
 search:
-    enabled: true
+    enabled: false
     label: OpenDataPlane
-universal-nav: true
+universal-nav: false
 brand:
     text: OpenDataPlane
     image: 
         enabled: true
-        name: ODP-Standard-Logo.png
+        path: /assets/images/ODP-Standard-Logo.png
     url: /
 pages:
     - title: Users

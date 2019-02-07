@@ -97,13 +97,11 @@ schema:
             county: Cambridge 
             post_code: CB22 7GG
             country_code: UK
-
 # Disqus Comments
 disqus:
     enabled: true
     shortname: opendataplane
-
 # Placeholder for Missing Images
-placeholder: placeholder.jpg
+placeholder: /assets/images/placeholder.jpg
 
 
