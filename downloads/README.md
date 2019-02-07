@@ -17,19 +17,8 @@ of the ODP reference from Git**
 <thead id="THEAD_14">
 
 <tr id="TR_15">
-
-<th>
-</th>
-
-<th colspan="1" id="TH_17">odp-linux
-pktio types:
- - Socket
- - Netmap
- - DPDK
- - TAP
- - Loop
-</th>
-
+<th> Repository description </th>
+<th colspan="1" id="TH_17"> Git link </th>
 </tr>
 
 </thead>
@@ -37,44 +26,19 @@ pktio types:
 <tbody id="TBODY_19">
 
 <tr id="TR_20">
-
-<td rowspan="1" id="TD_21">Development Repo</td>
-
+<td id="TD_21"> ODP API and Linux generic reference implementation </td>
 <td id="TD_22" markdown="1">
-[![Development Repo Leaf Icon](/assets/images/leaf.png)](https://github.com/Linaro/odp.git)
+[odp-linux](https://github.com/OpenDataPlane/odp.git)
 </td>
-
 </tr>
 
-<tr id="TR_27">
-
-<td rowspan="1" id="TD_28">Git Repo Tags</td>
-
-<td id="TD_29" markdown="1">
-[![Git Repo Tags Leaf Icon](/assets/images/leaf.png)](https://github.com/Linaro/odp/releases)
+<tr id="TR_23">
+<td id="TD_24"> ODP implementation utilizing DPDK </td>
+<td id="TD_25" markdown="1">
+[odp-dpdk](https://github.com/OpenDataPlane/odp-dpdk.git)
 </td>
-
 </tr>
 
-<tr id="TR_34">
-
-<td rowspan="1" id="TD_35">Patchworks</td>
-
-<td id="TD_36" markdown="1">
-[![Patchworks Leaf Icon](/assets/images/leaf.png)](http://patches.opendataplane.org/project/lng-odp/list/)
-</td>
-
-</tr>
-
-<tr id="TR_41">
-
-<td rowspan="1" id="TD_42">Latest Stable Release</td>
-
-<td id="TD_43" markdown="1">
-[![Tigermoth RC3 v1.18.0.1](/assets/images/leaf.png)](https://github.com/Linaro/odp/releases/tag/v1.18.0.1_tigermoth_rc3)
-</td>
-
-</tr>
 </tbody>
 </table>
 
@@ -83,8 +47,7 @@ pktio types:
 
 <div class="col-md-6" markdown="1">
 
-**Download other Open and Support
-Account Access implementations**
+**Download other open source implementations of ODP**
 
 <div class="responsive-table">
 
@@ -157,20 +120,6 @@ Account Access implementations**
 <td id="TD_87" markdown="1">
 [Link](https://git.linaro.org/lng/odp-keystone2.git)
 </td>
-
-</tr>
-
-<tr id="TR_90">
-
-<td id="TD_91" markdown="1">
-[![linaro](/assets/images/linaro.png)](http://linaro.org)
-</td>
-
-<td id="TD_94" markdown="1">
-[Link](https://github.com/Linaro/odp-dpdk)
-</td>
-
-<td id="TD_96">ODP-DPDK: SW optimized implementation using DPDK</td>
 
 </tr>
 
